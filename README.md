@@ -1,4 +1,5 @@
 # 📊 SynapseSCM — Procurement Cost Intelligence
+<div style="font-size:30px;">
 
 <p align="center">
 
@@ -88,9 +89,13 @@ Which products have higher unit costs and purchasing quantities?
 
 How do external indicators such as PPI, copper, crude oil, exchange rates, and interest rates provide additional context for procurement cost changes?
 
---
+# 🚀 SynapseSCM — Procurement Cost Intelligence
 
-# 🔄 End-to-End Project Workflow
+> **Power BI-based procurement analytics project for supplier, product, spending, and market-cost analysis.**
+
+---
+
+## 🔄 Project Workflow
 
 ```text
 ┌─────────────────────┐
@@ -102,8 +107,8 @@ How do external indicators such as PPI, copper, crude oil, exchange rates, and i
 └──────────┬──────────┘
            ↓
 ┌─────────────────────┐
-│   DATA QUALITY      │
-│     ASSESSMENT      │
+│ DATA QUALITY        │
+│ ASSESSMENT          │
 └──────────┬──────────┘
            ↓
 ┌─────────────────────┐
@@ -133,18 +138,18 @@ How do external indicators such as PPI, copper, crude oil, exchange rates, and i
 ┌─────────────────────┐
 │  RECOMMENDATIONS    │
 └─────────────────────┘
-``
+```
 
 ---
 
 ## 📂 1. Data Sources
 
-The project uses 11 datasets covering internal procurement information and external supporting market information.
+The project uses **11 datasets** covering internal procurement information and external supporting market information.
 
 ### 🏢 Internal Procurement Data
 
 | Dataset | Purpose |
-| --- | --- |
+|---|---|
 | **Suppliers.xlsx** | Supplier master information including supplier details, rating, status, country, and payment terms. |
 | **Products.xlsx** | Product master information including product details and categories. |
 | **Inventory.xlsx** | Inventory and stock information used to understand product availability and stock levels. |
@@ -155,14 +160,14 @@ The project uses 11 datasets covering internal procurement information and exter
 ### 🌍 External Supporting Data
 
 | Dataset | Purpose |
-| --- | --- |
+|---|---|
 | **ExchangeRates.xlsx** | Currency exchange rate information used to provide currency-related cost context. |
 | **Copper.xlsx** | Copper market price information used as supporting market information for procurement cost analysis. |
 | **CrudeOil.xlsx** | Crude oil market price information used to provide additional cost context. |
 | **InterestRates.xlsx** | Interest rate information used as supporting economic information. |
 | **ProducerPriceIndex.xlsx** | Producer Price Index information used to review producer-level price movements. |
 
-> **Note:** External datasets are used as supporting market information. The primary focus of this project remains **Procurement Cost Intelligence**.
+> **Note:** External datasets provide supporting market context. The primary focus of the project is **Procurement Cost Intelligence**.
 
 ---
 
@@ -170,37 +175,35 @@ The project uses 11 datasets covering internal procurement information and exter
 
 Before developing the Power BI report, the datasets were reviewed to understand their structure, fields, formats, and data quality.
 
-### Checks performed
+### Quality Checks
 
-* Row and column counts
-* Missing and blank values
-* Duplicate records
-* Date formats
-* Data types
-* Negative values
-* Invalid numerical values
-* Currency formatting
-* Unit formatting
-* Inconsistent text values
-* Unusual or extreme values
-* Business-rule validation
+- Row and column counts
+- Missing and blank values
+- Duplicate records
+- Date formats
+- Data types
+- Negative values
+- Invalid numerical values
+- Currency formatting
+- Unit formatting
+- Inconsistent text values
+- Unusual or extreme values
+- Business-rule validation
 
 ### 📋 Data Quality Assessment
 
 | Data Issue | Column / Area | Treatment |
-| --- | --- | --- |
-| **Missing values** | `SupplierRating` | Missing values were replaced according to the defined business rule. |
-| **Missing values** | `FacilityManager` | Blank values were replaced with `Unknown`. |
-| **Duplicate records** | Supplier and purchase order records | Duplicate occurrences were removed while retaining the valid record. |
-| **Invalid date format** | Order, shipment, and delivery dates | Date values were standardized. |
-| **Missing required values** | Business-related fields | Values were reviewed and replaced where sufficient information was available. |
-| **Negative cost values** | Cost-related fields | Values were checked and corrected where identified as invalid. |
-| **Currency symbols** | Financial fields | Symbols such as `$` and `₹` were removed before numeric conversion. |
-| **Unit strings** | Quantity and numerical fields | Unnecessary unit text was removed before numeric conversion. |
-| **Inconsistent text** | Status, currency, payment terms, carrier, and transport fields | Text values were standardized. |
-| **Quantity values** | Inventory-related fields | Values were validated using applicable business rules. |
-
-The data-quality assessment helped identify the main issues in the source datasets before they were used for analysis.
+|---|---|---|
+| **Missing values** | `SupplierRating` | Replaced according to the defined business rule. |
+| **Missing values** | `FacilityManager` | Blank values replaced with `Unknown`. |
+| **Duplicate records** | Supplier and purchase order records | Duplicate occurrences removed while retaining the valid record. |
+| **Invalid date format** | Order, shipment, and delivery dates | Date values standardized. |
+| **Missing required values** | Business-related fields | Reviewed and replaced where sufficient information was available. |
+| **Negative cost values** | Cost-related fields | Checked and corrected where identified as invalid. |
+| **Currency symbols** | Financial fields | `$` and `₹` symbols removed before numeric conversion. |
+| **Unit strings** | Quantity and numerical fields | Unnecessary unit text removed before numeric conversion. |
+| **Inconsistent text** | Status, currency, payment terms, carrier, and transport fields | Text values standardized. |
+| **Quantity values** | Inventory-related fields | Validated using applicable business rules. |
 
 ---
 
@@ -208,46 +211,44 @@ The data-quality assessment helped identify the main issues in the source datase
 
 The identified data-quality issues were addressed before the data was used for analysis and reporting.
 
-### Main cleaning activities
+### Cleaning Activities
 
-* Removed duplicate records
-* Handled missing values
-* Standardized date formats
-* Corrected data types
-* Cleaned numerical fields
-* Checked and corrected invalid negative values
-* Removed currency symbols
-* Removed unnecessary units
-* Standardized text values
-* Applied business validation rules
-* Checked quantity-related values
-* Verified the cleaned datasets
-* Prepared the data for Power BI
-
-The cleaned data was then used for exploratory analysis and data modeling.
+- Removed duplicate records
+- Handled missing values
+- Standardized date formats
+- Corrected data types
+- Cleaned numerical fields
+- Checked and corrected invalid negative values
+- Removed currency symbols
+- Removed unnecessary units
+- Standardized text values
+- Applied business validation rules
+- Checked quantity-related values
+- Verified cleaned datasets
+- Prepared data for Power BI
 
 ---
 
 ## 📊 4. Exploratory Data Analysis
 
-Exploratory analysis was performed to understand the main procurement patterns before developing the final dashboard.
+EDA was performed to identify important procurement patterns before developing the dashboard.
 
-### Areas analyzed
+### Areas Analyzed
 
-* Procurement spend distribution
-* Supplier spending
-* Supplier rating distribution
-* Product spending
-* Category-wise spending
-* Procurement quantity
-* Unit cost
-* Freight cost
-* Monthly procurement spending
-* Supplier country analysis
-* Inventory-related information
-* External market indicators
+- Procurement spend distribution
+- Supplier spending
+- Supplier rating distribution
+- Product spending
+- Category-wise spending
+- Procurement quantity
+- Unit cost
+- Freight cost
+- Monthly procurement spending
+- Supplier country analysis
+- Inventory-related information
+- External market indicators
 
-The results from EDA were used to determine the KPIs, charts, filters, and analysis included in the Power BI report.
+The EDA results were used to determine the **KPIs, visuals, filters, and business analysis** included in the Power BI report.
 
 ---
 
@@ -255,72 +256,78 @@ The results from EDA were used to determine the KPIs, charts, filters, and analy
 
 The cleaned datasets were organized into a structured Power BI data model.
 
-### Modeling activities
+### Modeling Activities
 
-* Created fact and dimension tables
-* Defined relationships between tables
-* Created a date dimension
-* Connected procurement transactions with supplier and product information
-* Established relationships required for analysis
-* Prepared the model for DAX calculations
-* Validated relationships using report results
+- Created fact and dimension tables
+- Defined relationships between tables
+- Created a date dimension
+- Connected procurement transactions with supplier information
+- Connected procurement transactions with product information
+- Established relationships required for analysis
+- Prepared the model for DAX calculations
+- Validated relationships using report results
 
 ### 📸 Data Model
 
-*(Insert Data Model Diagram / Screenshot Here)*
+![Data Model](Screenshots/data-model.png)
 
----
 
 ## 🧮 6. DAX Measures & KPI Development
 
-DAX was used to create the main procurement metrics and analytical calculations.
+DAX was used to create the main procurement metrics and analytical calculations required for the Power BI dashboard.
 
-### Main KPI Areas
+### 📌 Main KPI Areas
 
-* Total Procurement Spend
-* Total Purchase Orders
-* Total Suppliers
-* Active Suppliers
-* Supplier Spend Contribution %
-* Procurement Quantity
-* Average Unit Cost
-* Average Freight Cost
-* Procurement Spend Trend
-* Target-based KPIs
+| KPI | Purpose |
+|---|---|
+| 💰 **Total Procurement Spend** | Measures total procurement expenditure. |
+| 📑 **Total Purchase Orders** | Measures procurement transaction volume. |
+| 🏢 **Total Suppliers** | Shows the total supplier base. |
+| 🟢 **Active Suppliers** | Shows the number of active suppliers. |
+| 📊 **Supplier Spend Contribution %** | Shows each supplier's contribution to total procurement spend. |
+| 📦 **Total Procurement Quantity** | Measures total purchasing volume. |
+| 💵 **Average Unit Cost** | Monitors average purchasing cost. |
+| 🚚 **Average Freight Cost** | Monitors transportation-related cost. |
+| 📈 **Procurement Spend Trend** | Tracks procurement spending over time. |
 
-### Example DAX Measures
+### 🔢 Example DAX Measures
 
-#### Total Procurement Spend
+---
+
+### 💰 Total Procurement Spend
 
 ```dax
-Total Procurement Spend = 
+Total Procurement Spend =
 SUM(Fact_Purchase_Orders[TotalPOValue])
-
 ```
 
-#### Total Suppliers
+Calculates the total value of procurement transactions.
+
+### 🏢 Total Suppliers
 
 ```dax
-Total Suppliers = 
+Total Suppliers =
 DISTINCTCOUNT(Dim_Suppliers[SupplierID])
-
 ```
 
-#### Active Suppliers
+Counts the unique suppliers available in the supplier master data.
+
+### 🟢 Active Suppliers
 
 ```dax
-Active Suppliers = 
+Active Suppliers =
 CALCULATE(
     [Total Suppliers],
     Dim_Suppliers[Status] = "Active"
 )
-
 ```
 
-#### Supplier Spend Contribution %
+Calculates the number of suppliers whose current status is **Active**.
+
+### 📊 Supplier Spend Contribution %
 
 ```dax
-Supplier Spend Contribution % = 
+Supplier Spend Contribution % =
 DIVIDE(
     [Total Procurement Spend],
     CALCULATE(
@@ -329,19 +336,35 @@ DIVIDE(
     ),
     0
 )
-
 ```
 
-#### Average Unit Cost
+Calculates the percentage of total procurement spend contributed by each supplier.
+
+### 💵 Average Unit Cost
 
 ```dax
-Average Unit Cost = 
+Average Unit Cost =
 AVERAGE(Fact_Purchase_Orders[UnitCost])
-
 ```
 
----
+Calculates the average purchasing cost per unit.
 
+### 📈 Additional DAX Calculations
+
+Additional measures were created to support:
+
+- Procurement spending trends
+- Year-over-year spending analysis
+- Supplier performance
+- Procurement quantities
+- Unit and freight costs
+- Supplier contribution
+- Purchase order analysis
+- Target and achievement analysis
+- Date-based analysis
+- Time-intelligence calculations
+
+These measures were used across the Power BI report to create KPI cards, charts, tables, trend analysis, and supplier/product comparisons.
 ## 📌 7. Main KPIs
 
 | KPI | Purpose |
@@ -671,6 +694,4 @@ The complete project documentation contains:
 * References
 * Appendix
 
-```
-
-```
+</div>
