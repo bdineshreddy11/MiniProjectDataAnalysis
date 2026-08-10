@@ -30,7 +30,7 @@ The main objective is to help procurement teams answer questions such as:
 - How does procurement spending change over time?
 - What external market indicators provide additional cost context?
 
---
+
 
 # 🎯 Business Problem
 
@@ -269,7 +269,7 @@ The cleaned datasets were organized into a structured Power BI data model.
 
 ### 📸 Data Model
 
-![Data Model](Screenshots/data-model.png)
+ ![Procurement Overview](SynapseSCM/screenshots/Data-model.png)
 
 
 ## 🧮 6. DAX Measures & KPI Development
@@ -402,7 +402,8 @@ The Procurement Overview page provides a high-level view of the overall procurem
 
 
 * **Purpose:** To provide management with a quick understanding of procurement expenditure and major spending areas.
-* **📸 Screenshot:** *(Insert Page 1 Screenshot Here)*
+  
+![Procurement Overview](SynapseSCM/screenshots/procurement-overview.png)
 
 ---
 
@@ -423,7 +424,8 @@ This page focuses specifically on procurement spending and cost patterns.
 
 
 * **Purpose:** To understand where procurement expenditure is concentrated and identify major cost areas.
-* **📸 Screenshot:** *(Insert Page 2 Screenshot Here)*
+
+ ![Procurement Overview](SynapseSCM/screenshots/procurement-spend-analysis.png)
 
 ---
 
@@ -445,7 +447,8 @@ This page focuses on supplier-related procurement expenditure and supplier chara
 
 * **Filters:** Supplier Name, Country, Supplier Rating Group, Status, Payment Terms, Date
 * **Purpose:** To identify major suppliers, compare supplier expenditure, and understand supplier-related cost patterns.
-* **📸 Screenshot:** *(Insert Page 3 Screenshot Here)*
+
+![Procurement Overview](SynapseSCM/screenshots/supplier-cost-analysis.png)
 
 ---
 
@@ -466,7 +469,8 @@ This page focuses on product-level procurement expenditure and cost patterns.
 
 * **Filters:** Product Name, Product Category, Currency, Date, Supplier
 * **Purpose:** To identify high-cost products and categories and understand purchasing quantity and unit-cost variations.
-* **📸 Screenshot:** *(Insert Page 4 Screenshot Here)*
+
+![Procurement Overview](SynapseSCM/screenshots/product-cost-analysis.png)
 
 ---
 
@@ -492,7 +496,7 @@ This page provides external market information connected to the procurement cost
 
 > **Important:** Market Intelligence is a supporting section of the Procurement Cost Intelligence project, not a separate primary business domain.
 
-* **📸 Screenshot:** *(Insert Page 5 Screenshot Here)*
+![Procurement Overview](SynapseSCM/screenshots/market-intelligence.png)
 
 ---
 
@@ -608,9 +612,7 @@ The solution can be expanded in future versions with additional modules.
 | **Advanced Market Intelligence** | More detailed analysis of external economic and commodity indicators. |
 
 These areas represent future extensions of the current procurement analytics solution.
-
 ---
-
 ## 🛠️ Technology Stack
 
 | Technology | Usage |
