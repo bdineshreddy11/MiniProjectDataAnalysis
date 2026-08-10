@@ -1,0 +1,15 @@
+CurrencyKey,CurrencyCode,CurrencyName,CurrencySymbol,CountryRegion,IsBaseCurrency,VolatilityTier
+101,USD,US Dollar,$,United States,Yes,Low (Base)
+102,EUR,Euro,€,Eurozone,No,Low
+103,GBP,British Pound,£,United Kingdom,No,Low-Medium
+104,JPY,Japanese Yen,¥,Japan,No,Medium
+105,CNY,Chinese Yuan,¥,China,No,Medium
+106,INR,Indian Rupee,₹,India,No,Medium
+107,KRW,South Korean Won,₩,South Korea,No,High
+108,CAD,Canadian Dollar,C$,Canada,No,Low-Medium
+109,AUD,Australian Dollar,A$,Australia,No,Medium
+110,MXN,Mexican Peso,Mex$,Mexico,Yes,High(Base)
+111,TWD,New Taiwan Dollar,NT$,Taiwan,No,Medium
+112,VND,Vietnamese Dong,₫,Vietnam,No,High
+113,BRL,Brazilian Real,R$,Brazil,No,High
+114,SGD,Singapore Dollar,S$,Singapore,No,Low

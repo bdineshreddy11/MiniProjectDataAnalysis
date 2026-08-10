@@ -1,0 +1,51 @@
+WarehouseID,WarehouseName,Country,City,Capacity_SQFT,Country_LPI_Score,FacilityManager
+WH-01,Rotterdam Gateway Hub #1,Netherlands,Rotterdam,451793,4.1,Mgr. Rott-Ops01
+WH-02,Hamburg Logistics Park #2,Germany,Hamburg,383788,4.2,Mgr. Hamb-Ops02
+WH-03,Shanghai Port Center #3,China,Shanghai,653501,3.8,Mgr. Shan-Ops03
+WH-04,Long Beach Distribution Hub #4,USA,NYC,524335,3.9,Mgr. NYC-Ops04
+WH-05,Chicago Inland Terminal #5,USA,Chicago,404409,3.9,Mgr. Chic-Ops05
+WH-06,Rotterdam Gateway Hub #6,Netherlands,Rotterdam,454134,4.1,Mgr. Rott-Ops06
+WH-07,Hamburg Logistics Park #7,Germany,Hamburg,384788,4.2,Mgr. Hamb-Ops07
+WH-08,Shanghai Port Center #8,China,Shanghai,653121,3.8,
+WH-09,Long Beach Distribution Hub #9,USA,NYC,521634,3.9,Mgr. NYC-Ops09
+WH-10,Chicago Inland Terminal #10,USA,Chicago,400506,3.9,Mgr. Chic-Ops10
+WH-11,Rotterdam Gateway Hub #11,Netherlands,Rotterdam,453189,4.1,Mgr. Rott-Ops11
+WH-12,Hamburg Logistics Park #12,Germany,Hamburg,382877,4.2,Mgr. Hamb-Ops12
+WH-13,Shanghai Port Center #13,China,Shanghai,652950,3.8,Mgr. Shan-Ops13
+WH-14,Long Beach Distribution Hub #14,USA,NYC,519708,3.9,Mgr. NYC-Ops14
+WH-15,Chicago Inland Terminal #15,USA,Chicago,403064,3.9,Mgr. Chic-Ops15
+WH-16,Rotterdam Gateway Hub #16,Netherlands,Rotterdam,452637,4.1,
+WH-17,Hamburg Logistics Park #17,Germany,Hamburg,380024,4.2,Mgr. Hamb-Ops17
+WH-18,Shanghai Port Center #18,China,Shanghai,649702,3.8,Mgr. Shan-Ops18
+WH-19,Long Beach Distribution Hub #19,USA,NYC,519519,3.9,Mgr. NYC-Ops19
+WH-20,Chicago Inland Terminal #20,USA,Chicago,399032,3.9,Mgr. Chic-Ops20
+WH-21,Rotterdam Gateway Hub #21,Netherlands,Rotterdam,451836,4.1,Mgr. Rott-Ops21
+WH-22,Hamburg Logistics Park #22,Germany,Hamburg,380720,4.2,Mgr. Hamb-Ops22
+WH-23,Shanghai Port Center #23,China,Shanghai,653816,3.8,Mgr. Shan-Ops23
+WH-24,Long Beach Distribution Hub #24,USA,New York,519001,3.9,
+WH-25,Chicago Inland Terminal #25,USA,Chicago,403865,3.9,Mgr. Chic-Ops25
+WH-26,Rotterdam Gateway Hub #26,Netherlands,Rotterdam,450875,4.1,Mgr. Rott-Ops26
+WH-27,Hamburg Logistics Park #27,Germany,Hamburg,379186,4.2,Mgr. Hamb-Ops27
+WH-28,Shanghai Port Center #28,China,Shanghai,649744,3.8,Mgr. Shan-Ops28
+WH-29,Long Beach Distribution Hub #29,USA,NYC,523860,3.9,Mgr. NYC-Ops29
+WH-30,Chicago Inland Terminal #30,USA,Chicago,404351,3.9,Mgr. Chic-Ops30
+WH-31,Rotterdam Gateway Hub #31,Netherlands,Rotterdam,450826,4.1,Mgr. Rott-Ops31
+WH-32,Hamburg Logistics Park #32,Germany,Hamburg,379342,4.2,
+WH-33,Shanghai Port Center #33,China,Shanghai,651497,3.8,Mgr. Shan-Ops33
+WH-34,Long Beach Distribution Hub #34,USA,NYC,519254,3.9,Mgr. NYC-Ops34
+WH-35,Chicago Inland Terminal #35,USA,Chicago,402836,3.9,Mgr. Chic-Ops35
+WH-36,Rotterdam Gateway Hub #36,Netherlands,Rotterdam,454182,4.1,Mgr. Rott-Ops36
+WH-37,Hamburg Logistics Park #37,Germany,Hamburg,380899,4.2,Mgr. Hamb-Ops37
+WH-38,Shanghai Port Center #38,China,Shanghai,650778,3.8,Mgr. Shan-Ops38
+WH-39,Long Beach Distribution Hub #39,USA,NYC,522545,3.9,Mgr. NYC-Ops39
+WH-40,Chicago Inland Terminal #40,USA,Chicago,399390,3.9,
+WH-41,Rotterdam Gateway Hub #41,Netherlands,Rotterdam,449741,4.1,Mgr. Rott-Ops41
+WH-42,Hamburg Logistics Park #42,Germany,Hamburg,384839,4.2,Mgr. Hamb-Ops42
+WH-43,Shanghai Port Center #43,China,Shanghai,650764,3.8,Mgr. Shan-Ops43
+WH-44,Long Beach Distribution Hub #44,USA,NYC,524629,3.9,Mgr. NYC-Ops44
+WH-45,Chicago Inland Terminal #45,USA,Chicago,404116,3.9,Mgr. Chic-Ops45
+WH-46,Rotterdam Gateway Hub #46,Netherlands,Rotterdam,454646,4.1,Mgr. Rott-Ops46
+WH-47,Hamburg Logistics Park #47,Germany,Hamburg,380107,4.2,Mgr. Hamb-Ops47
+WH-48,Shanghai Port Center #48,China,Shanghai,652058,3.8,
+WH-49,Long Beach Distribution Hub #49,USA,NYC,520818,3.9,Mgr. NYC-Ops49
+WH-50,Chicago Inland Terminal #50,USA,Chicago,404403,3.9,Mgr. Chic-Ops50

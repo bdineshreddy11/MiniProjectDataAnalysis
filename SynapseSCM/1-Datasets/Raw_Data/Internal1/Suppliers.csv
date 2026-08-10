@@ -1,0 +1,1001 @@
+SupplierID,SupplierName,Country,Currency,PaymentTerms,SupplierRating,PrimaryRawMaterialExposure,Status
+SUP-00001,Apex Cable & Wire 1,India,INR,2/10 Net 30,3.94,Copper,Active
+SUP-00002,Horizon Industrial 2,Taiwan,TWD,2/10 Net 30,4.53,Rare Earths,Inactive
+SUP-00003,Bavarian Electronics 3,China,CNY,Net 30,3.84,Copper,Active
+SUP-00004,Apex Electronics 4,USA,USD,LC At Sight,4.67,Steel,Inactive
+SUP-00005,Vanguard Microtech 5,South Korea,KRW,Net 30,3.04,Electronics,Inactive
+SUP-00006,Pacific Polymer Corp 6,Vietnam,VND,Net 30,2.27,Packaging,Active
+SUP-00007,Sino Electronics 7,Japan,JPY,COD,4.11,Packaging,Active
+SUP-00008,Global Cable & Wire 8,UK,GBP,Net 60,3.27,Steel,Preferred
+SUP-00009,Andean Electronics 9,Germany,EUR,Net 60,4.5,Packaging,Inactive
+SUP-00010,Horizon Electronics 10,South Korea,KRW,2/10 Net 30,2.78,Steel,Preferred
+SUP-00011,Bavarian Metal Tech 11,Taiwan,TWD,Net 30,4.3,Rare Earths,Active
+SUP-00012,Precision Polymer Corp 12,Vietnam,VND,2/10 Net 30,3.29,Crude Oil / Polymers,Under Review
+SUP-00013,Nippon Polymer Corp 13,Unknown,CAD,COD,3.37,Steel,Inactive
+SUP-00014,Andean Chemical Resins 14,India,INR,Net 60,,Freight,Active
+SUP-00015,Andean Electronics 15,South Korea,KRW,Net 60,2.61,Rare Earths,Active
+SUP-00016,Global Metal Tech 16,Japan,JPY,COD,4.65,Steel,Inactive
+SUP-00017,Andean Electronics 17,UK,GBP,Net 30,2.78,Steel,Under Review
+SUP-00018,Andean Electronics 18,South Korea,KRW,2/10 Net 30,4.5,Freight,Active
+SUP-00019,Sino Cable & Wire 19,Mexico,MXN,LC At Sight,2.3,Freight,Inactive
+SUP-00020,Andean Chemical Resins 20,Mexico,MXN,Net 30,4.9,Rare Earths,Inactive
+SUP-00021,Bavarian Polymer Corp 21,Canada,CAD,Net 30,4.71,Electronics,Active
+SUP-00022,Nippon Industrial 22,Japan,JPY,Net 60,4.75,Copper,Active
+SUP-00023,Bavarian Polymer Corp 23,Taiwan,TWD,LC At Sight,2.6,Copper,Preferred
+SUP-00024,Global Chemical Resins 24,Canada,CAD,LC At Sight,3.91,Crude Oil / Polymers,Active
+SUP-00025,Vanguard Electronics 25,Vietnam,VND,COD,4.81,Packaging,Active
+SUP-00026,Bavarian Logistics Parts 26,Unknown,TWD,COD,3.51,Copper,Under Review
+SUP-00027,Titan Logistics Parts 27,Japan,JPY,LC At Sight,4.5,Rare Earths,Preferred
+SUP-00028,Sino Industrial 28,South Korea,KRW,LC At Sight,,Crude Oil / Polymers,Preferred
+SUP-00029,Nippon Industrial 29,USA,USD,Net 30,3.17,Copper,Active
+SUP-00030,Vanguard Cable & Wire 30,USA,USD,Net 30,3.53,Electronics,Inactive
+SUP-00031,Sino Electronics 31,UK,GBP,Net 30,3.49,Steel,Preferred
+SUP-00032,Horizon Logistics Parts 32,Japan,JPY,2/10 Net 30,3.56,Steel,Preferred
+SUP-00033,Vanguard Electronics 33,Taiwan,TWD,Net 30,4.04,Copper,Preferred
+SUP-00034,Pacific Metal Tech 34,China,CNY,COD,4.76,Copper,Inactive
+SUP-00035,Andean Metal Tech 35,Mexico,MXN,LC At Sight,4.26,Crude Oil / Polymers,Under Review
+SUP-00036,Precision Metal Tech 36,Japan,JPY,COD,4.5,Packaging,Active
+SUP-00037,Andean Logistics Parts 37,Japan,JPY,COD,4.53,Steel,Active
+SUP-00038,Pacific Industrial 38,Germany,EUR,Net 60,2.91,Electronics,Active
+SUP-00039,Sino Electronics 39,Unknown,MXN,LC At Sight,4.44,Electronics,Under Review
+SUP-00040,Atlas Cable & Wire 40,India,INR,Net 60,3.33,Packaging,Inactive
+SUP-00041,Andean Chemical Resins 41,Germany,EUR,LC At Sight,2.64,Copper,Active
+SUP-00042,Bavarian Cable & Wire 42,South Korea,KRW,2/10 Net 30,,Rare Earths,Inactive
+SUP-00043,Titan Logistics Parts 43,USA,USD,Net 30,4.54,Electronics,Preferred
+SUP-00044,Titan Microtech 44,Germany,EUR,2/10 Net 30,4.15,Packaging,Inactive
+SUP-00045,Horizon Microtech 45,Taiwan,TWD,Net 30,4.5,Packaging,Active
+SUP-00046,Titan Logistics Parts 46,Germany,EUR,LC At Sight,2.79,Steel,Active
+SUP-00047,Apex Metal Tech 47,UK,GBP,COD,4.41,Freight,Inactive
+SUP-00048,Apex Cable & Wire 48,Chile,USD,2/10 Net 30,4.51,Electronics,Active
+SUP-00049,Atlas Chemical Resins 49,Chile,USD,Net 30,2.04,Rare Earths,Inactive
+SUP-00050,Sino Industrial 50,USA,USD,Net 30,2.29,Copper,Active
+SUP-00051,Apex Polymer Corp 51,Canada,CAD,2/10 Net 30,3.73,Rare Earths,Active
+SUP-00052,Vanguard Electronics 52,Unknown,TWD,COD,3.96,Packaging,Active
+SUP-00053,Pacific Cable & Wire 53,Taiwan,TWD,Net 30,3.78,Steel,Inactive
+SUP-00054,Apex Cable & Wire 54,India,INR,COD,4.5,Electronics,Under Review
+SUP-00055,Sino Cable & Wire 55,USA,USD,COD,4.15,Copper,Active
+SUP-00056,Precision Cable & Wire 56,Chile,USD,COD,,Rare Earths,Inactive
+SUP-00057,Apex Chemical Resins 57,South Korea,KRW,Net 30,3.76,Copper,Preferred
+SUP-00058,Vanguard Microtech 58,India,INR,Net 30,4.17,Copper,Active
+SUP-00059,Horizon Polymer Corp 59,Germany,EUR,Net 30,2.38,Electronics,Preferred
+SUP-00060,Titan Chemical Resins 60,USA,USD,Net 60,3.73,Electronics,Under Review
+SUP-00061,Pacific Industrial 61,China,CNY,LC At Sight,3.26,Crude Oil / Polymers,Inactive
+SUP-00062,Atlas Logistics Parts 62,India,INR,Net 30,3.98,Packaging,Inactive
+SUP-00063,Andean Industrial 63,Chile,USD,LC At Sight,4.5,Crude Oil / Polymers,Active
+SUP-00064,Global Metal Tech 64,Chile,USD,2/10 Net 30,3.44,Electronics,Active
+SUP-00065,Atlas Polymer Corp 65,Unknown,JPY,2/10 Net 30,2.11,Rare Earths,Inactive
+SUP-00066,Andean Chemical Resins 66,UK,GBP,COD,3.56,Freight,Active
+SUP-00067,Global Metal Tech 67,Canada,CAD,Net 30,3.41,Crude Oil / Polymers,Inactive
+SUP-00068,Andean Logistics Parts 68,Vietnam,VND,LC At Sight,3.2,Electronics,Inactive
+SUP-00069,Nippon Chemical Resins 69,UK,GBP,LC At Sight,2.6,Electronics,Under Review
+SUP-00070,Titan Electronics 70,India,INR,LC At Sight,,Steel,Inactive
+SUP-00071,Titan Chemical Resins 71,China,CNY,Net 30,3.88,Crude Oil / Polymers,Under Review
+SUP-00072,Global Cable & Wire 72,India,INR,COD,4.5,Steel,Inactive
+SUP-00073,Global Logistics Parts 73,Germany,EUR,Net 30,3.12,Freight,Active
+SUP-00074,Atlas Polymer Corp 74,USA,USD,2/10 Net 30,2.65,Rare Earths,Inactive
+SUP-00075,Horizon Chemical Resins 75,Taiwan,TWD,Net 30,4.87,Steel,Preferred
+SUP-00076,Andean Logistics Parts 76,India,INR,Net 30,2.26,Freight,Under Review
+SUP-00077,Vanguard Chemical Resins 77,Chile,USD,Net 30,4.21,Freight,Inactive
+SUP-00078,Nippon Logistics Parts 78,Unknown,USD,Net 30,3.62,Electronics,Active
+SUP-00079,Pacific Microtech 79,Vietnam,VND,COD,2.03,Packaging,Inactive
+SUP-00080,Bavarian Industrial 80,UK,GBP,LC At Sight,4.32,Rare Earths,Preferred
+SUP-00081,Atlas Metal Tech 81,Japan,JPY,Net 30,4.5,Packaging,Active
+SUP-00082,Atlas Metal Tech 82,Germany,EUR,2/10 Net 30,4,Freight,Inactive
+SUP-00083,Global Cable & Wire 83,Germany,EUR,Net 30,2.91,Packaging,Active
+SUP-00084,Horizon Microtech 84,Japan,JPY,Net 30,,Electronics,Under Review
+SUP-00085,Apex Polymer Corp 85,South Korea,KRW,Net 30,3.85,Freight,Active
+SUP-00086,Vanguard Electronics 86,Mexico,MXN,Net 30,3.67,Crude Oil / Polymers,Inactive
+SUP-00087,Vanguard Electronics 87,Taiwan,TWD,Net 30,2.25,Rare Earths,Active
+SUP-00088,Bavarian Chemical Resins 88,Chile,USD,LC At Sight,3.99,Crude Oil / Polymers,Active
+SUP-00089,Pacific Cable & Wire 89,UK,GBP,COD,3.97,Steel,Under Review
+SUP-00090,Vanguard Logistics Parts 90,China,CNY,LC At Sight,4.5,Steel,Active
+SUP-00091,Precision Cable & Wire 91,Unknown,GBP,Net 60,4.49,Packaging,Under Review
+SUP-00092,Nippon Logistics Parts 92,Mexico,MXN,COD,3.7,Freight,Active
+SUP-00093,Pacific Chemical Resins 93,UK,GBP,LC At Sight,2.35,Electronics,Inactive
+SUP-00094,Bavarian Chemical Resins 94,Japan,JPY,2/10 Net 30,3.88,Crude Oil / Polymers,Active
+SUP-00095,Atlas Polymer Corp 95,Chile,USD,Net 30,3.72,Freight,Under Review
+SUP-00096,Pacific Metal Tech 96,India,INR,COD,2.99,Steel,Active
+SUP-00097,Apex Electronics 97,Canada,CAD,LC At Sight,3.9,Rare Earths,Inactive
+SUP-00098,Andean Microtech 98,South Korea,KRW,Net 30,,Freight,Active
+SUP-00099,Global Industrial 99,Vietnam,VND,Net 30,4.5,Copper,Active
+SUP-00100,Andean Chemical Resins 100,Japan,JPY,Net 30,3.74,Packaging,Under Review
+SUP-00101,Bavarian Electronics 101,UK,GBP,Net 30,2.11,Crude Oil / Polymers,Inactive
+SUP-00102,Apex Chemical Resins 102,UK,GBP,Net 30,4.34,Rare Earths,Under Review
+SUP-00103,Andean Chemical Resins 103,Taiwan,TWD,COD,3.11,Packaging,Inactive
+SUP-00104,Nippon Metal Tech 104,Unknown,EUR,Net 30,2.99,Crude Oil / Polymers,Under Review
+SUP-00105,Nippon Logistics Parts 105,Vietnam,VND,Net 30,2.25,Steel,Inactive
+SUP-00106,Andean Logistics Parts 106,Germany,EUR,Net 30,2.81,Steel,Active
+SUP-00107,Atlas Microtech 107,Mexico,MXN,COD,3.99,Electronics,Active
+SUP-00108,Vanguard Electronics 108,Chile,USD,Net 60,4.5,Electronics,Inactive
+SUP-00109,Sino Metal Tech 109,Canada,CAD,Net 60,2.4,Steel,Inactive
+SUP-00110,Vanguard Chemical Resins 110,Mexico,MXN,Net 30,3.1,Packaging,Inactive
+SUP-00111,Precision Industrial 111,Chile,USD,Net 30,3.75,Rare Earths,Under Review
+SUP-00112,Apex Chemical Resins 112,Mexico,MXN,2/10 Net 30,,Copper,Inactive
+SUP-00113,Andean Cable & Wire 113,Mexico,MXN,Net 30,3.98,Electronics,Active
+SUP-00114,Apex Logistics Parts 114,Chile,USD,LC At Sight,3.58,Rare Earths,Under Review
+SUP-00115,Titan Polymer Corp 115,Taiwan,TWD,Net 30,2.09,Crude Oil / Polymers,Active
+SUP-00116,Pacific Logistics Parts 116,India,INR,Net 30,4.38,Electronics,Inactive
+SUP-00117,Precision Electronics 117,Unknown,JPY,2/10 Net 30,4.5,Freight,Inactive
+SUP-00118,Vanguard Cable & Wire 118,Canada,CAD,Net 60,3.6,Freight,Preferred
+SUP-00119,Nippon Logistics Parts 119,Taiwan,TWD,2/10 Net 30,4.11,Crude Oil / Polymers,Inactive
+SUP-00120,Atlas Logistics Parts 120,Canada,CAD,2/10 Net 30,2.18,Freight,Inactive
+SUP-00121,Global Chemical Resins 121,Chile,USD,LC At Sight,2.54,Electronics,Preferred
+SUP-00122,Precision Cable & Wire 122,Japan,JPY,Net 60,2.5,Freight,Active
+SUP-00123,Atlas Logistics Parts 123,South Korea,KRW,COD,3.87,Packaging,Active
+SUP-00124,Sino Microtech 124,India,INR,Net 30,4.66,Copper,Under Review
+SUP-00125,Titan Industrial 125,Japan,JPY,Net 30,2.44,Packaging,Active
+SUP-00126,Bavarian Metal Tech 126,USA,USD,Net 30,4.5,Electronics,Preferred
+SUP-00127,Precision Chemical Resins 127,UK,GBP,LC At Sight,2.08,Packaging,Active
+SUP-00128,Apex Industrial 128,Canada,CAD,Net 60,2.6,Rare Earths,Active
+SUP-00129,Nippon Microtech 129,Canada,CAD,Net 60,2.64,Crude Oil / Polymers,Preferred
+SUP-00130,Pacific Industrial 130,Unknown,MXN,LC At Sight,3.09,Crude Oil / Polymers,Active
+SUP-00131,Titan Electronics 131,India,INR,2/10 Net 30,3.45,Crude Oil / Polymers,Inactive
+SUP-00132,Nippon Polymer Corp 132,Germany,EUR,Net 30,4.14,Packaging,Inactive
+SUP-00133,Atlas Polymer Corp 133,Japan,JPY,Net 30,3.92,Crude Oil / Polymers,Under Review
+SUP-00134,Global Logistics Parts 134,Canada,CAD,COD,4.37,Electronics,Inactive
+SUP-00135,Vanguard Industrial 135,USA,USD,Net 60,4.5,Packaging,Under Review
+SUP-00136,Sino Cable & Wire 136,Mexico,MXN,Net 30,2.32,Crude Oil / Polymers,Preferred
+SUP-00137,Nippon Cable & Wire 137,Mexico,MXN,Net 60,3.83,Packaging,Active
+SUP-00138,Precision Cable & Wire 138,Chile,USD,COD,2.24,Steel,Active
+SUP-00139,Andean Polymer Corp 139,Chile,USD,Net 30,2.11,Packaging,Active
+SUP-00140,Apex Electronics 140,Taiwan,TWD,Net 30,,Steel,Inactive
+SUP-00141,Titan Electronics 141,Taiwan,TWD,Net 60,3.62,Crude Oil / Polymers,Active
+SUP-00142,Atlas Metal Tech 142,Germany,EUR,Net 60,2.28,Packaging,Inactive
+SUP-00143,Sino Metal Tech 143,Unknown,USD,COD,4.91,Rare Earths,Preferred
+SUP-00144,Andean Polymer Corp 144,Vietnam,VND,LC At Sight,4.5,Electronics,Inactive
+SUP-00145,Atlas Chemical Resins 145,Mexico,MXN,Net 30,2.97,Steel,Inactive
+SUP-00146,Nippon Industrial 146,China,CNY,2/10 Net 30,4.58,Electronics,Under Review
+SUP-00147,Global Electronics 147,China,CNY,2/10 Net 30,2.55,Crude Oil / Polymers,Inactive
+SUP-00148,Apex Electronics 148,Taiwan,TWD,Net 60,3.45,Copper,Under Review
+SUP-00149,Nippon Industrial 149,Vietnam,VND,Net 30,3.59,Rare Earths,Active
+sup_150,Sino Microtech 150,India,INR,Net 30,2.8,Steel,Inactive
+SUP-00151,Precision Metal Tech 151,UK,GBP,2/10 Net 30,4.61,Crude Oil / Polymers,Preferred
+SUP-00152,Apex Cable & Wire 152,China,CNY,2/10 Net 30,2.23,Crude Oil / Polymers,Under Review
+SUP-00153,Pacific Polymer Corp 153,Germany,EUR,LC At Sight,4.5,Steel,Under Review
+SUP-00154,Global Microtech 154,China,CNY,Net 30,,Electronics,Inactive
+SUP-00155,Atlas Chemical Resins 155,UK,GBP,Net 30,2.77,Copper,Active
+SUP-00156,Precision Polymer Corp 156,Unknown,MXN,2/10 Net 30,4,Electronics,Inactive
+SUP-00157,Bavarian Metal Tech 157,China,CNY,COD,3.95,Steel,Active
+SUP-00158,Sino Polymer Corp 158,Japan,JPY,COD,2.2,Crude Oil / Polymers,Active
+SUP-00159,Sino Metal Tech 159,Mexico,MXN,Net 30,2.21,Freight,Inactive
+SUP-00160,Andean Logistics Parts 160,India,INR,COD,3.55,Packaging,Active
+SUP-00161,Bavarian Metal Tech 161,India,INR,Net 30,2.68,Steel,Under Review
+SUP-00162,Apex Microtech 162,USA,USD,Net 30,4.5,Steel,Under Review
+SUP-00163,Andean Polymer Corp 163,Mexico,MXN,COD,3.87,Crude Oil / Polymers,Active
+SUP-00164,Atlas Microtech 164,India,INR,LC At Sight,3.01,Electronics,Inactive
+SUP-00165,Titan Logistics Parts 165,Mexico,MXN,Net 30,2.06,Copper,Inactive
+SUP-00166,Atlas Microtech 166,Mexico,MXN,LC At Sight,4.08,Freight,Inactive
+SUP-00167,Vanguard Logistics Parts 167,Mexico,MXN,2/10 Net 30,2.35,Copper,Inactive
+SUP-00168,Pacific Polymer Corp 168,Vietnam,VND,Net 60,,Freight,Under Review
+SUP-00169,Titan Cable & Wire 169,Unknown,INR,Net 30,2.25,Freight,Preferred
+SUP-00170,Global Chemical Resins 170,China,CNY,Net 30,3.13,Crude Oil / Polymers,Active
+SUP-00171,Horizon Logistics Parts 171,Chile,USD,COD,4.5,Packaging,Active
+SUP-00172,Global Cable & Wire 172,Vietnam,VND,Net 30,4.14,Packaging,Active
+SUP-00173,Nippon Electronics 173,Japan,JPY,2/10 Net 30,4.86,Freight,Under Review
+SUP-00174,Apex Polymer Corp 174,Japan,JPY,Net 30,3.84,Electronics,Active
+SUP-00175,Pacific Chemical Resins 175,USA,USD,Net 60,3.83,Crude Oil / Polymers,Under Review
+SUP-00176,Titan Metal Tech 176,Mexico,MXN,2/10 Net 30,2.36,Crude Oil / Polymers,Inactive
+SUP-00177,Vanguard Electronics 177,Germany,EUR,LC At Sight,3.16,Electronics,Under Review
+SUP-00178,Bavarian Chemical Resins 178,Chile,USD,Net 60,4.22,Steel,Under Review
+SUP-00179,Sino Cable & Wire 179,Japan,JPY,Net 30,3.84,Copper,Active
+SUP-00180,Nippon Chemical Resins 180,Vietnam,VND,LC At Sight,4.5,Steel,Active
+SUP-00181,Precision Cable & Wire 181,Japan,JPY,LC At Sight,2.3,Steel,Active
+SUP-00182,Horizon Cable & Wire 182,Unknown,CAD,2/10 Net 30,,Steel,Active
+SUP-00183,Horizon Chemical Resins 183,India,INR,2/10 Net 30,4.91,Freight,Active
+SUP-00184,Vanguard Electronics 184,China,CNY,Net 30,3.53,Copper,Inactive
+SUP-00185,Horizon Microtech 185,Chile,USD,Net 30,4.54,Freight,Preferred
+SUP-00186,Atlas Electronics 186,South Korea,KRW,COD,3.49,Copper,Preferred
+SUP-00187,Sino Metal Tech 187,Taiwan,TWD,2/10 Net 30,3.01,Electronics,Inactive
+SUP-00188,Pacific Microtech 188,Vietnam,VND,COD,4.65,Rare Earths,Preferred
+SUP-00189,Sino Cable & Wire 189,UK,GBP,LC At Sight,4.5,Steel,Preferred
+SUP-00190,Nippon Metal Tech 190,South Korea,KRW,2/10 Net 30,3.29,Packaging,Active
+SUP-00191,Nippon Industrial 191,UK,GBP,LC At Sight,4.23,Rare Earths,Active
+SUP-00192,Apex Microtech 192,China,CNY,Net 30,3.47,Steel,Under Review
+SUP-00193,Atlas Industrial 193,India,INR,Net 30,3.12,Packaging,Active
+SUP-00194,Apex Polymer Corp 194,China,CNY,Net 60,2.37,Packaging,Active
+SUP-00195,Titan Polymer Corp 195,Unknown,KRW,Net 30,2.96,Copper,Active
+SUP-00196,Apex Cable & Wire 196,Canada,CAD,Net 30,,Steel,Inactive
+SUP-00197,Pacific Polymer Corp 197,Canada,CAD,Net 30,4.48,Crude Oil / Polymers,Inactive
+SUP-00198,Andean Electronics 198,UK,GBP,2/10 Net 30,4.5,Crude Oil / Polymers,Active
+SUP-00199,Apex Cable & Wire 199,China,CNY,Net 30,3.33,Rare Earths,Active
+SUP-00200,Andean Industrial 200,Japan,JPY,Net 30,2.06,Steel,Under Review
+SUP-00201,Apex Electronics 201,Mexico,MXN,Net 30,3.35,Electronics,Inactive
+SUP-00202,Apex Metal Tech 202,South Korea,KRW,Net 30,3.28,Copper,Active
+SUP-00203,Precision Microtech 203,South Korea,KRW,Net 30,3.05,Crude Oil / Polymers,Active
+SUP-00204,Atlas Chemical Resins 204,Chile,USD,LC At Sight,4.4,Rare Earths,Active
+SUP-00205,Precision Microtech 205,UK,GBP,LC At Sight,2.23,Freight,Active
+SUP-00206,Horizon Chemical Resins 206,UK,GBP,Net 60,4.57,Rare Earths,Preferred
+SUP-00207,Sino Microtech 207,Vietnam,VND,LC At Sight,4.5,Packaging,Preferred
+SUP-00208,Atlas Industrial 208,Unknown,USD,Net 30,3.67,Electronics,Preferred
+SUP-00209,Bavarian Chemical Resins 209,South Korea,KRW,COD,4.56,Electronics,Active
+SUP-00210,Precision Electronics 210,Japan,JPY,Net 30,,Rare Earths,Preferred
+SUP-00211,Sino Chemical Resins 211,Chile,USD,Net 30,4.62,Crude Oil / Polymers,Active
+SUP-00212,Nippon Cable & Wire 212,Vietnam,VND,Net 30,4.18,Freight,Active
+SUP-00213,Titan Cable & Wire 213,South Korea,KRW,COD,3.27,Steel,Preferred
+SUP-00214,Pacific Polymer Corp 214,UK,GBP,LC At Sight,4.47,Steel,Inactive
+SUP-00215,Titan Electronics 215,Taiwan,TWD,Net 30,3.71,Electronics,Active
+SUP-00216,Vanguard Industrial 216,Vietnam,VND,Net 30,4.5,Rare Earths,Active
+SUP-00217,Bavarian Metal Tech 217,UK,GBP,Net 60,3.4,Packaging,Active
+SUP-00218,Precision Chemical Resins 218,India,INR,2/10 Net 30,4.38,Copper,Inactive
+SUP-00219,Vanguard Industrial 219,Chile,USD,Net 60,2.9,Rare Earths,Inactive
+SUP-00220,Sino Metal Tech 220,China,CNY,Net 30,2.17,Crude Oil / Polymers,Active
+SUP-00221,Global Cable & Wire 221,Unknown,TWD,2/10 Net 30,3.37,Freight,Preferred
+SUP-00222,Andean Metal Tech 222,Chile,USD,Net 30,2.32,Steel,Active
+SUP-00223,Apex Polymer Corp 223,Germany,EUR,LC At Sight,4.38,Packaging,Inactive
+SUP-00224,Precision Industrial 224,USA,USD,Net 30,,Steel,Inactive
+SUP-00225,Andean Metal Tech 225,Chile,USD,Net 60,4.5,Electronics,Preferred
+SUP-00226,Titan Electronics 226,China,CNY,Net 30,3.24,Crude Oil / Polymers,Active
+SUP-00227,Titan Logistics Parts 227,Taiwan,TWD,Net 60,4.15,Copper,Under Review
+SUP-00228,Horizon Industrial 228,Mexico,MXN,Net 60,3.91,Crude Oil / Polymers,Inactive
+SUP-00229,Global Chemical Resins 229,Germany,EUR,LC At Sight,2.39,Crude Oil / Polymers,Active
+SUP-00230,Precision Electronics 230,India,INR,2/10 Net 30,2.45,Electronics,Active
+SUP-00231,Precision Chemical Resins 231,USA,USD,Net 30,2.58,Steel,Active
+SUP-00232,Vanguard Industrial 232,Germany,EUR,LC At Sight,4.98,Electronics,Preferred
+SUP-00233,Titan Polymer Corp 233,Chile,USD,2/10 Net 30,2.66,Electronics,Active
+SUP-00234,Apex Chemical Resins 234,Unknown,INR,2/10 Net 30,4.5,Copper,Inactive
+SUP-00235,Andean Polymer Corp 235,Vietnam,VND,Net 30,3.39,Electronics,Inactive
+SUP-00236,Atlas Logistics Parts 236,Japan,JPY,Net 30,3.66,Freight,Active
+SUP-00237,Pacific Chemical Resins 237,Taiwan,TWD,COD,3.41,Crude Oil / Polymers,Active
+SUP-00238,Atlas Cable & Wire 238,Mexico,MXN,Net 30,,Freight,Preferred
+SUP-00239,Atlas Chemical Resins 239,India,INR,Net 30,4.97,Electronics,Inactive
+SUP-00240,Nippon Chemical Resins 240,Mexico,MXN,COD,4.77,Electronics,Active
+SUP-00241,Sino Electronics 241,South Korea,KRW,LC At Sight,4.85,Freight,Active
+SUP-00242,Nippon Chemical Resins 242,Germany,EUR,Net 30,4.9,Rare Earths,Under Review
+SUP-00243,Apex Electronics 243,UK,GBP,Net 30,4.5,Electronics,Active
+SUP-00244,Precision Metal Tech 244,Germany,EUR,Net 30,4.27,Copper,Active
+SUP-00245,Titan Microtech 245,India,INR,Net 30,2.09,Electronics,Active
+SUP-00246,Global Cable & Wire 246,Germany,EUR,Net 30,3.5,Packaging,Inactive
+SUP-00247,Pacific Cable & Wire 247,Unknown,INR,COD,3.85,Copper,Active
+SUP-00248,Titan Electronics 248,Canada,CAD,Net 60,4.07,Copper,Inactive
+SUP-00249,Titan Cable & Wire 249,UK,GBP,Net 30,3.62,Electronics,Preferred
+SUP-00250,Titan Cable & Wire 250,South Korea,KRW,2/10 Net 30,4.58,Copper,Inactive
+SUP-00251,Titan Metal Tech 251,South Korea,KRW,Net 60,4.8,Copper,Inactive
+SUP-00252,Horizon Metal Tech 252,Mexico,MXN,Net 30,4.5,Rare Earths,Inactive
+SUP-00253,Bavarian Industrial 253,Germany,EUR,COD,4.75,Rare Earths,Active
+SUP-00254,Apex Chemical Resins 254,Germany,EUR,Net 30,3.27,Freight,Active
+SUP-00255,Sino Microtech 255,Mexico,MXN,COD,2.03,Copper,Inactive
+SUP-00256,Andean Electronics 256,UK,GBP,Net 30,3.18,Rare Earths,Inactive
+SUP-00257,Atlas Microtech 257,Vietnam,VND,2/10 Net 30,2.9,Electronics,Inactive
+SUP-00258,Pacific Chemical Resins 258,South Korea,KRW,LC At Sight,3.31,Steel,Active
+SUP-00259,Apex Industrial 259,South Korea,KRW,LC At Sight,3.1,Crude Oil / Polymers,Preferred
+SUP-00260,Andean Electronics 260,Unknown,USD,LC At Sight,2.95,Freight,Active
+SUP-00261,Precision Cable & Wire 261,India,INR,Net 30,4.5,Rare Earths,Active
+SUP-00262,Precision Chemical Resins 262,Japan,JPY,Net 30,3.38,Crude Oil / Polymers,Inactive
+SUP-00263,Nippon Chemical Resins 263,Taiwan,TWD,Net 60,3.4,Steel,Active
+SUP-00264,Sino Chemical Resins 264,Vietnam,VND,Net 30,3.89,Electronics,Inactive
+SUP-00265,Bavarian Cable & Wire 265,Vietnam,VND,LC At Sight,2.2,Steel,Preferred
+SUP-00266,Andean Industrial 266,Vietnam,VND,Net 30,,Steel,Active
+SUP-00267,Apex Chemical Resins 267,Germany,EUR,COD,2.17,Rare Earths,Active
+SUP-00268,Nippon Cable & Wire 268,Taiwan,TWD,Net 30,4.85,Electronics,Preferred
+SUP-00269,Titan Chemical Resins 269,USA,USD,COD,2.85,Crude Oil / Polymers,Preferred
+SUP-00270,Sino Electronics 270,Chile,USD,Net 60,4.5,Packaging,Inactive
+SUP-00271,Precision Polymer Corp 271,India,INR,Net 30,2.8,Electronics,Under Review
+SUP-00272,Global Logistics Parts 272,South Korea,KRW,Net 30,3.85,Steel,Inactive
+SUP-00273,Andean Metal Tech 273,Unknown,VND,2/10 Net 30,2,Copper,Active
+SUP-00274,Precision Metal Tech 274,Canada,CAD,Net 30,3.9,Copper,Active
+SUP-00275,Bavarian Metal Tech 275,USA,USD,2/10 Net 30,4.83,Steel,Inactive
+SUP-00276,Global Microtech 276,Taiwan,TWD,Net 30,3.48,Crude Oil / Polymers,Active
+SUP-00277,Vanguard Electronics 277,USA,USD,Net 30,2.11,Packaging,Preferred
+SUP-00278,Bavarian Electronics 278,Vietnam,VND,2/10 Net 30,4.08,Copper,Under Review
+SUP-00279,Precision Industrial 279,Germany,EUR,Net 30,4.5,Electronics,Under Review
+SUP-00280,Nippon Cable & Wire 280,Germany,EUR,Net 30,,Copper,Active
+SUP-00281,Global Microtech 281,India,INR,Net 30,4.84,Copper,Inactive
+SUP-00282,Sino Metal Tech 282,Canada,CAD,Net 30,2.01,Copper,Active
+SUP-00283,Atlas Industrial 283,China,CNY,LC At Sight,3.33,Copper,Under Review
+SUP-00284,Bavarian Polymer Corp 284,UK,GBP,Net 30,2.53,Packaging,Active
+SUP-00285,Global Polymer Corp 285,Japan,JPY,Net 60,3.32,Packaging,Inactive
+SUP-00286,Apex Logistics Parts 286,Unknown,TWD,LC At Sight,4.44,Steel,Active
+SUP-00287,Vanguard Electronics 287,Taiwan,TWD,COD,2.52,Freight,Preferred
+SUP-00288,Atlas Microtech 288,Taiwan,TWD,LC At Sight,4.5,Packaging,Active
+SUP-00289,Precision Microtech 289,China,CNY,Net 60,2.18,Crude Oil / Polymers,Under Review
+SUP-00290,Titan Polymer Corp 290,India,INR,Net 60,2.37,Packaging,Inactive
+SUP-00291,Apex Logistics Parts 291,Taiwan,TWD,LC At Sight,4.63,Packaging,Active
+SUP-00292,Sino Electronics 292,USA,USD,COD,3.21,Rare Earths,Active
+SUP-00293,Vanguard Chemical Resins 293,India,INR,Net 30,2.17,Steel,Active
+SUP-00294,Vanguard Polymer Corp 294,South Korea,KRW,Net 60,,Steel,Inactive
+SUP-00295,Andean Logistics Parts 295,UK,GBP,2/10 Net 30,3.39,Electronics,Preferred
+SUP-00296,Precision Polymer Corp 296,Japan,JPY,Net 30,2.36,Freight,Inactive
+SUP-00297,Precision Logistics Parts 297,South Korea,KRW,Net 30,4.5,Crude Oil / Polymers,Inactive
+SUP-00298,Precision Industrial 298,South Korea,KRW,LC At Sight,2.45,Rare Earths,Active
+SUP-00299,Horizon Metal Tech 299,Unknown,CAD,LC At Sight,3.84,Crude Oil / Polymers,Active
+sup_300,Andean Logistics Parts 300,Vietnam,VND,COD,2.93,Freight,Active
+SUP-00301,Global Chemical Resins 301,Japan,JPY,Net 60,2.49,Crude Oil / Polymers,Under Review
+SUP-00302,Precision Metal Tech 302,Canada,CAD,LC At Sight,3.78,Freight,Active
+SUP-00303,Global Industrial 303,USA,USD,COD,2.36,Packaging,Preferred
+SUP-00304,Titan Electronics 304,USA,USD,Net 30,2.37,Copper,Under Review
+SUP-00305,Andean Metal Tech 305,Germany,EUR,Net 30,2.69,Freight,Active
+SUP-00306,Vanguard Logistics Parts 306,South Korea,KRW,2/10 Net 30,4.5,Electronics,Inactive
+SUP-00307,Pacific Microtech 307,Canada,CAD,Net 60,3.58,Rare Earths,Inactive
+SUP-00308,Atlas Electronics 308,South Korea,KRW,COD,,Copper,Inactive
+SUP-00309,Andean Logistics Parts 309,Germany,EUR,COD,4.57,Steel,Inactive
+SUP-00310,Apex Logistics Parts 310,Germany,EUR,Net 30,3.59,Electronics,Under Review
+SUP-00311,Global Electronics 311,USA,USD,Net 30,2.5,Crude Oil / Polymers,Preferred
+SUP-00312,Pacific Industrial 312,Unknown,TWD,Net 30,2.61,Crude Oil / Polymers,Active
+SUP-00313,Bavarian Chemical Resins 313,South Korea,KRW,LC At Sight,2.96,Electronics,Active
+SUP-00314,Apex Microtech 314,Vietnam,VND,Net 30,2.36,Freight,Inactive
+SUP-00315,Global Industrial 315,China,CNY,COD,4.5,Steel,Active
+SUP-00316,Precision Electronics 316,Germany,EUR,COD,2.37,Rare Earths,Inactive
+SUP-00317,Sino Microtech 317,China,CNY,COD,3.1,Steel,Active
+SUP-00318,Andean Cable & Wire 318,USA,USD,2/10 Net 30,4.6,Freight,Under Review
+SUP-00319,Andean Metal Tech 319,Germany,EUR,Net 30,2.76,Copper,Under Review
+SUP-00320,Apex Metal Tech 320,China,CNY,COD,4.8,Crude Oil / Polymers,Active
+SUP-00321,Vanguard Metal Tech 321,Japan,JPY,Net 30,3.06,Crude Oil / Polymers,Active
+SUP-00322,Vanguard Polymer Corp 322,Germany,EUR,Net 30,,Packaging,Active
+SUP-00323,Horizon Chemical Resins 323,Germany,EUR,LC At Sight,3.53,Crude Oil / Polymers,Active
+SUP-00324,Apex Metal Tech 324,India,INR,Net 30,4.5,Rare Earths,Active
+SUP-00325,Andean Industrial 325,Unknown,VND,COD,2.2,Crude Oil / Polymers,Active
+SUP-00326,Atlas Polymer Corp 326,Vietnam,VND,Net 30,2.55,Crude Oil / Polymers,Inactive
+SUP-00327,Andean Industrial 327,China,CNY,Net 60,4.38,Rare Earths,Preferred
+SUP-00328,Bavarian Electronics 328,South Korea,KRW,Net 30,2.87,Copper,Active
+SUP-00329,Sino Logistics Parts 329,Chile,USD,LC At Sight,3.16,Freight,Active
+SUP-00330,Sino Logistics Parts 330,Chile,USD,Net 30,4.27,Steel,Active
+SUP-00331,Apex Logistics Parts 331,Taiwan,TWD,LC At Sight,4.69,Freight,Under Review
+SUP-00332,Sino Chemical Resins 332,Vietnam,VND,COD,3.33,Steel,Active
+SUP-00333,Sino Electronics 333,Germany,EUR,Net 30,4.5,Packaging,Active
+SUP-00334,Pacific Metal Tech 334,Canada,CAD,Net 30,3.02,Electronics,Preferred
+SUP-00335,Pacific Cable & Wire 335,Mexico,MXN,Net 30,3.71,Copper,Active
+SUP-00336,Pacific Chemical Resins 336,Vietnam,VND,Net 30,,Crude Oil / Polymers,Active
+SUP-00337,Andean Electronics 337,Canada,CAD,2/10 Net 30,2.5,Packaging,Inactive
+SUP-00338,Bavarian Electronics 338,Unknown,EUR,Net 30,3.87,Packaging,Under Review
+SUP-00339,Sino Chemical Resins 339,Chile,USD,Net 60,4.49,Electronics,Inactive
+SUP-00340,Global Microtech 340,Mexico,MXN,Net 30,2.08,Steel,Preferred
+SUP-00341,Nippon Logistics Parts 341,South Korea,KRW,Net 60,4.97,Copper,Under Review
+SUP-00342,Vanguard Industrial 342,India,INR,2/10 Net 30,4.5,Steel,Active
+SUP-00343,Apex Industrial 343,Vietnam,VND,Net 30,3.64,Steel,Preferred
+SUP-00344,Andean Logistics Parts 344,USA,USD,COD,4.84,Crude Oil / Polymers,Preferred
+SUP-00345,Pacific Logistics Parts 345,Japan,JPY,Net 30,3.74,Packaging,Under Review
+SUP-00346,Pacific Cable & Wire 346,China,CNY,COD,4.74,Freight,Preferred
+SUP-00347,Bavarian Polymer Corp 347,Germany,EUR,Net 30,2.08,Packaging,Preferred
+SUP-00348,Horizon Electronics 348,South Korea,KRW,COD,2.07,Crude Oil / Polymers,Inactive
+SUP-00349,Andean Logistics Parts 349,Japan,JPY,LC At Sight,2.04,Steel,Active
+SUP-00350,Apex Industrial 350,Taiwan,TWD,Net 30,,Packaging,Preferred
+SUP-00351,Sino Chemical Resins 351,Unknown,JPY,Net 60,4.5,Packaging,Active
+SUP-00352,Global Industrial 352,Vietnam,VND,LC At Sight,2.46,Rare Earths,Active
+SUP-00353,Nippon Polymer Corp 353,Mexico,MXN,LC At Sight,3.32,Steel,Inactive
+SUP-00354,Pacific Chemical Resins 354,China,CNY,Net 30,3.88,Copper,Under Review
+SUP-00355,Precision Electronics 355,Mexico,MXN,Net 60,3.79,Copper,Active
+SUP-00356,Apex Cable & Wire 356,China,CNY,LC At Sight,4.98,Electronics,Active
+SUP-00357,Bavarian Industrial 357,Mexico,MXN,Net 30,3.92,Rare Earths,Active
+SUP-00358,Apex Metal Tech 358,China,CNY,Net 30,2.5,Crude Oil / Polymers,Inactive
+SUP-00359,Pacific Industrial 359,India,INR,Net 60,4.84,Crude Oil / Polymers,Active
+SUP-00360,Bavarian Polymer Corp 360,China,CNY,2/10 Net 30,4.5,Crude Oil / Polymers,Inactive
+SUP-00361,Apex Logistics Parts 361,Taiwan,TWD,Net 30,4.23,Steel,Active
+SUP-00362,Vanguard Metal Tech 362,Canada,CAD,Net 30,3.91,Rare Earths,Preferred
+SUP-00363,Vanguard Logistics Parts 363,Taiwan,TWD,Net 30,2.17,Electronics,Active
+SUP-00364,Vanguard Industrial 364,Unknown,GBP,Net 60,,Packaging,Preferred
+SUP-00365,Nippon Electronics 365,Germany,EUR,Net 60,4.09,Crude Oil / Polymers,Active
+SUP-00366,Vanguard Logistics Parts 366,South Korea,KRW,LC At Sight,4.39,Freight,Under Review
+SUP-00367,Precision Chemical Resins 367,UK,GBP,Net 30,4.99,Copper,Active
+SUP-00368,Sino Cable & Wire 368,Taiwan,TWD,LC At Sight,2.86,Copper,Inactive
+SUP-00369,Horizon Industrial 369,UK,GBP,LC At Sight,4.5,Freight,Preferred
+SUP-00370,Sino Cable & Wire 370,Vietnam,VND,LC At Sight,4.75,Copper,Under Review
+SUP-00371,Titan Chemical Resins 371,Vietnam,VND,2/10 Net 30,2.97,Electronics,Preferred
+SUP-00372,Apex Metal Tech 372,Germany,EUR,Net 30,4.41,Copper,Inactive
+SUP-00373,Vanguard Industrial 373,USA,USD,Net 30,4.3,Copper,Preferred
+SUP-00374,Precision Microtech 374,Mexico,MXN,2/10 Net 30,4.19,Copper,Preferred
+SUP-00375,Vanguard Industrial 375,Germany,EUR,Net 30,2.21,Copper,Preferred
+SUP-00376,Precision Cable & Wire 376,Vietnam,VND,Net 30,4.82,Electronics,Under Review
+SUP-00377,Apex Cable & Wire 377,Unknown,EUR,Net 30,4.81,Electronics,Inactive
+SUP-00378,Titan Microtech 378,Taiwan,TWD,COD,4.5,Freight,Active
+SUP-00379,Apex Metal Tech 379,Canada,CAD,Net 30,3.05,Packaging,Inactive
+SUP-00380,Precision Metal Tech 380,Canada,CAD,2/10 Net 30,4.42,Crude Oil / Polymers,Inactive
+SUP-00381,Apex Metal Tech 381,Chile,USD,2/10 Net 30,3.81,Crude Oil / Polymers,Active
+SUP-00382,Sino Logistics Parts 382,China,CNY,Net 60,3.88,Crude Oil / Polymers,Inactive
+SUP-00383,Pacific Electronics 383,Taiwan,TWD,Net 30,4.56,Copper,Under Review
+SUP-00384,Andean Cable & Wire 384,Chile,USD,Net 30,2.81,Electronics,Active
+SUP-00385,Precision Metal Tech 385,UK,GBP,2/10 Net 30,2.8,Packaging,Preferred
+SUP-00386,Global Industrial 386,UK,GBP,Net 30,3.57,Electronics,Under Review
+SUP-00387,Precision Logistics Parts 387,UK,GBP,Net 30,4.5,Packaging,Active
+SUP-00388,Vanguard Industrial 388,Germany,EUR,2/10 Net 30,4.41,Steel,Inactive
+SUP-00389,Nippon Chemical Resins 389,USA,USD,COD,3.03,Copper,Active
+SUP-00390,Vanguard Electronics 390,Unknown,GBP,Net 30,3.23,Freight,Active
+SUP-00391,Atlas Industrial 391,Canada,CAD,Net 60,3.94,Packaging,Inactive
+SUP-00392,Apex Chemical Resins 392,Canada,CAD,Net 30,,Crude Oil / Polymers,Active
+SUP-00393,Bavarian Polymer Corp 393,Chile,USD,Net 30,4.08,Steel,Active
+SUP-00394,Bavarian Electronics 394,Mexico,MXN,Net 60,2.58,Rare Earths,Preferred
+SUP-00395,Andean Industrial 395,Canada,CAD,2/10 Net 30,2.22,Copper,Active
+SUP-00396,Precision Chemical Resins 396,Germany,EUR,2/10 Net 30,4.5,Steel,Inactive
+SUP-00397,Apex Microtech 397,Canada,CAD,COD,2.76,Rare Earths,Under Review
+SUP-00398,Horizon Cable & Wire 398,South Korea,KRW,Net 30,2.31,Electronics,Active
+SUP-00399,Horizon Cable & Wire 399,Chile,USD,COD,3.21,Rare Earths,Active
+SUP-00400,Andean Metal Tech 400,Vietnam,VND,Net 60,4.78,Electronics,Under Review
+SUP-00401,Bavarian Polymer Corp 401,Mexico,MXN,Net 30,4.88,Electronics,Inactive
+SUP-00402,Pacific Industrial 402,Chile,USD,Net 30,2.51,Crude Oil / Polymers,Active
+SUP-00403,Atlas Chemical Resins 403,Unknown,INR,Net 30,2.38,Electronics,Inactive
+SUP-00404,Andean Metal Tech 404,Japan,JPY,COD,3.1,Freight,Under Review
+SUP-00405,Horizon Electronics 405,India,INR,Net 30,4.5,Rare Earths,Under Review
+SUP-00406,Pacific Electronics 406,India,INR,Net 30,,Packaging,Preferred
+SUP-00407,Horizon Industrial 407,Canada,CAD,Net 30,3.47,Steel,Preferred
+SUP-00408,Titan Cable & Wire 408,UK,GBP,Net 60,3.02,Steel,Active
+SUP-00409,Precision Cable & Wire 409,UK,GBP,LC At Sight,2.87,Packaging,Active
+SUP-00410,Precision Industrial 410,Mexico,MXN,Net 30,3.62,Freight,Under Review
+SUP-00411,Andean Cable & Wire 411,China,CNY,Net 30,3.18,Crude Oil / Polymers,Active
+SUP-00412,Sino Electronics 412,Germany,EUR,Net 60,3.36,Packaging,Active
+SUP-00413,Pacific Chemical Resins 413,USA,USD,LC At Sight,2.6,Copper,Active
+SUP-00414,Horizon Polymer Corp 414,Mexico,MXN,Net 30,4.5,Rare Earths,Active
+SUP-00415,Horizon Metal Tech 415,China,CNY,LC At Sight,2.98,Electronics,Active
+SUP-00416,Vanguard Metal Tech 416,Unknown,MXN,LC At Sight,3.47,Packaging,Inactive
+SUP-00417,Vanguard Chemical Resins 417,UK,GBP,Net 60,3.76,Copper,Active
+SUP-00418,Pacific Logistics Parts 418,Taiwan,TWD,Net 30,4.22,Packaging,Active
+SUP-00419,Atlas Electronics 419,Germany,EUR,Net 60,4.62,Electronics,Active
+SUP-00420,Apex Chemical Resins 420,China,CNY,Net 30,,Rare Earths,Active
+SUP-00421,Apex Cable & Wire 421,Taiwan,TWD,Net 30,3.5,Packaging,Under Review
+SUP-00422,Nippon Industrial 422,South Korea,KRW,Net 60,4.32,Rare Earths,Inactive
+SUP-00423,Sino Electronics 423,Germany,EUR,Net 30,4.5,Steel,Active
+SUP-00424,Atlas Microtech 424,Germany,EUR,Net 30,4.91,Electronics,Active
+SUP-00425,Atlas Electronics 425,Mexico,MXN,Net 30,2.68,Freight,Under Review
+SUP-00426,Sino Chemical Resins 426,USA,USD,Net 30,2.67,Copper,Preferred
+SUP-00427,Pacific Chemical Resins 427,Japan,JPY,2/10 Net 30,2.48,Rare Earths,Active
+SUP-00428,Apex Chemical Resins 428,China,CNY,Net 30,3.01,Copper,Inactive
+SUP-00429,Andean Microtech 429,Unknown,INR,Net 30,3.91,Freight,Preferred
+SUP-00430,Vanguard Electronics 430,Chile,USD,LC At Sight,4.26,Electronics,Active
+SUP-00431,Vanguard Industrial 431,South Korea,KRW,Net 30,4.55,Steel,Active
+SUP-00432,Atlas Cable & Wire 432,Vietnam,VND,Net 30,4.5,Copper,Inactive
+SUP-00433,Precision Chemical Resins 433,Canada,CAD,Net 30,3.19,Copper,Active
+SUP-00434,Titan Industrial 434,Japan,JPY,Net 60,,Rare Earths,Preferred
+SUP-00435,Vanguard Microtech 435,UK,GBP,COD,3.84,Copper,Active
+SUP-00436,Bavarian Polymer Corp 436,USA,USD,COD,3.08,Packaging,Inactive
+SUP-00437,Pacific Cable & Wire 437,Vietnam,VND,2/10 Net 30,2.91,Copper,Active
+SUP-00438,Vanguard Polymer Corp 438,Canada,CAD,2/10 Net 30,2.67,Copper,Inactive
+SUP-00439,Titan Metal Tech 439,Mexico,MXN,Net 30,2.94,Steel,Active
+SUP-00440,Vanguard Cable & Wire 440,Mexico,MXN,LC At Sight,2.54,Crude Oil / Polymers,Active
+SUP-00441,Sino Microtech 441,USA,USD,LC At Sight,4.5,Crude Oil / Polymers,Active
+SUP-00442,Pacific Cable & Wire 442,Unknown,USD,2/10 Net 30,4.41,Packaging,Preferred
+SUP-00443,Andean Logistics Parts 443,China,CNY,Net 30,3.51,Electronics,Active
+SUP-00444,Global Cable & Wire 444,Taiwan,TWD,COD,4.35,Freight,Under Review
+SUP-00445,Apex Logistics Parts 445,Japan,JPY,LC At Sight,3.32,Electronics,Active
+SUP-00446,Vanguard Chemical Resins 446,India,INR,LC At Sight,2.72,Electronics,Active
+SUP-00447,Bavarian Chemical Resins 447,Chile,USD,COD,3.05,Packaging,Preferred
+SUP-00448,Vanguard Cable & Wire 448,Taiwan,TWD,COD,,Crude Oil / Polymers,Inactive
+SUP-00449,Horizon Logistics Parts 449,Taiwan,TWD,2/10 Net 30,2.26,Copper,Inactive
+sup_450,Precision Microtech 450,Vietnam,VND,Net 60,4.5,Copper,Inactive
+SUP-00451,Nippon Electronics 451,China,CNY,Net 30,3.96,Steel,Active
+SUP-00452,Atlas Industrial 452,India,INR,Net 30,2.95,Packaging,Inactive
+SUP-00453,Pacific Metal Tech 453,UK,GBP,COD,4.27,Freight,Inactive
+SUP-00454,Titan Microtech 454,Vietnam,VND,LC At Sight,3.98,Steel,Active
+SUP-00455,Atlas Cable & Wire 455,Unknown,CNY,2/10 Net 30,4.42,Rare Earths,Inactive
+SUP-00456,Atlas Cable & Wire 456,Mexico,MXN,Net 30,4.07,Steel,Active
+SUP-00457,Precision Electronics 457,China,CNY,Net 30,3.5,Packaging,Active
+SUP-00458,Andean Industrial 458,Japan,JPY,Net 60,3.4,Crude Oil / Polymers,Under Review
+SUP-00459,Sino Chemical Resins 459,UK,GBP,Net 30,4.5,Steel,Active
+SUP-00460,Nippon Industrial 460,Canada,CAD,2/10 Net 30,4.32,Electronics,Active
+SUP-00461,Apex Metal Tech 461,Chile,USD,COD,4.08,Steel,Active
+SUP-00462,Pacific Polymer Corp 462,Chile,USD,COD,,Freight,Active
+SUP-00463,Atlas Cable & Wire 463,Germany,EUR,Net 30,2.45,Copper,Under Review
+SUP-00464,Titan Cable & Wire 464,Mexico,MXN,Net 60,3.34,Rare Earths,Active
+SUP-00465,Titan Logistics Parts 465,South Korea,KRW,Net 30,3.09,Freight,Inactive
+SUP-00466,Apex Cable & Wire 466,India,INR,LC At Sight,3.73,Crude Oil / Polymers,Preferred
+SUP-00467,Nippon Logistics Parts 467,Taiwan,TWD,2/10 Net 30,4.2,Steel,Under Review
+SUP-00468,Global Polymer Corp 468,Unknown,CNY,Net 30,4.5,Steel,Active
+SUP-00469,Bavarian Metal Tech 469,South Korea,KRW,Net 30,2.36,Packaging,Under Review
+SUP-00470,Bavarian Industrial 470,Chile,USD,Net 30,4.78,Packaging,Under Review
+SUP-00471,Andean Microtech 471,Mexico,MXN,Net 60,3.51,Freight,Inactive
+SUP-00472,Apex Electronics 472,Vietnam,VND,Net 60,4.12,Freight,Active
+SUP-00473,Nippon Chemical Resins 473,Japan,JPY,Net 30,3.17,Freight,Preferred
+SUP-00474,Pacific Industrial 474,USA,USD,Net 30,3.31,Packaging,Active
+SUP-00475,Bavarian Cable & Wire 475,Chile,USD,COD,3.38,Copper,Active
+SUP-00476,Sino Electronics 476,Mexico,MXN,COD,,Crude Oil / Polymers,Active
+SUP-00477,Titan Microtech 477,Mexico,MXN,Net 30,4.5,Rare Earths,Inactive
+SUP-00478,Nippon Industrial 478,Canada,CAD,Net 60,4.06,Crude Oil / Polymers,Active
+SUP-00479,Sino Chemical Resins 479,South Korea,KRW,Net 30,3.68,Copper,Active
+SUP-00480,Andean Microtech 480,China,CNY,Net 30,3.43,Crude Oil / Polymers,Active
+SUP-00481,Vanguard Chemical Resins 481,Unknown,USD,COD,4.23,Freight,Active
+SUP-00482,Horizon Polymer Corp 482,UK,GBP,Net 30,2.54,Steel,Inactive
+SUP-00483,Andean Electronics 483,USA,USD,Net 60,3.51,Rare Earths,Active
+SUP-00484,Sino Microtech 484,Canada,CAD,COD,2.25,Crude Oil / Polymers,Under Review
+SUP-00485,Bavarian Cable & Wire 485,Germany,EUR,LC At Sight,2.56,Rare Earths,Under Review
+SUP-00486,Titan Logistics Parts 486,UK,GBP,Net 30,4.5,Freight,Active
+SUP-00487,Precision Industrial 487,UK,GBP,Net 30,3.32,Rare Earths,Under Review
+SUP-00488,Atlas Industrial 488,USA,USD,Net 30,4.84,Crude Oil / Polymers,Active
+SUP-00489,Titan Logistics Parts 489,South Korea,KRW,Net 60,4.84,Steel,Preferred
+SUP-00490,Bavarian Microtech 490,South Korea,KRW,Net 60,,Freight,Under Review
+SUP-00491,Pacific Industrial 491,Taiwan,TWD,Net 60,2.22,Steel,Preferred
+SUP-00492,Titan Electronics 492,China,CNY,Net 30,3.29,Packaging,Preferred
+SUP-00493,Apex Chemical Resins 493,USA,USD,2/10 Net 30,4.52,Crude Oil / Polymers,Inactive
+SUP-00494,Precision Electronics 494,Unknown,TWD,COD,4.84,Rare Earths,Under Review
+SUP-00495,Sino Industrial 495,Japan,JPY,Net 30,4.5,Electronics,Active
+SUP-00496,Precision Metal Tech 496,USA,USD,Net 30,3.34,Rare Earths,Preferred
+SUP-00497,Sino Metal Tech 497,Mexico,MXN,LC At Sight,3.65,Steel,Inactive
+SUP-00498,Horizon Cable & Wire 498,UK,GBP,Net 30,2.91,Packaging,Inactive
+SUP-00499,Bavarian Chemical Resins 499,Chile,USD,Net 30,4.87,Electronics,Active
+SUP-00500,Apex Industrial 500,USA,USD,Net 60,3.31,Crude Oil / Polymers,Preferred
+SUP-00501,Pacific Cable & Wire 501,China,CNY,Net 30,2.33,Packaging,Active
+SUP-00502,Sino Electronics 502,USA,USD,2/10 Net 30,4.37,Steel,Under Review
+SUP-00503,Apex Microtech 503,Mexico,MXN,Net 30,2.13,Rare Earths,Preferred
+SUP-00504,Titan Electronics 504,Vietnam,VND,LC At Sight,4.5,Packaging,Active
+SUP-00505,Pacific Logistics Parts 505,Canada,CAD,Net 30,4.89,Freight,Active
+SUP-00506,Sino Logistics Parts 506,Germany,EUR,COD,3.34,Freight,Active
+SUP-00507,Bavarian Electronics 507,Unknown,USD,Net 30,4.22,Packaging,Inactive
+SUP-00508,Atlas Chemical Resins 508,Vietnam,VND,Net 30,2.38,Crude Oil / Polymers,Inactive
+SUP-00509,Vanguard Metal Tech 509,Canada,CAD,Net 30,4.92,Rare Earths,Active
+SUP-00510,Apex Electronics 510,South Korea,KRW,LC At Sight,2.13,Crude Oil / Polymers,Active
+SUP-00511,Nippon Polymer Corp 511,Mexico,MXN,Net 30,4.38,Steel,Preferred
+SUP-00512,Nippon Cable & Wire 512,South Korea,KRW,2/10 Net 30,4.78,Copper,Inactive
+SUP-00513,Precision Industrial 513,Japan,JPY,Net 30,4.5,Copper,Active
+SUP-00514,Andean Polymer Corp 514,USA,USD,Net 30,4.75,Rare Earths,Active
+SUP-00515,Sino Electronics 515,India,INR,Net 60,3.1,Copper,Active
+SUP-00516,Vanguard Metal Tech 516,Japan,JPY,LC At Sight,4.1,Steel,Inactive
+SUP-00517,Titan Electronics 517,UK,GBP,Net 60,2.92,Packaging,Under Review
+SUP-00518,Andean Polymer Corp 518,USA,USD,COD,,Copper,Active
+SUP-00519,Andean Polymer Corp 519,USA,USD,Net 30,4.92,Crude Oil / Polymers,Active
+SUP-00520,Horizon Microtech 520,Unknown,USD,Net 60,3.12,Electronics,Under Review
+SUP-00521,Bavarian Polymer Corp 521,Japan,JPY,Net 30,3.49,Steel,Active
+SUP-00522,Andean Electronics 522,Canada,CAD,LC At Sight,4.5,Crude Oil / Polymers,Active
+SUP-00523,Precision Chemical Resins 523,UK,GBP,LC At Sight,4.48,Crude Oil / Polymers,Active
+SUP-00524,Pacific Polymer Corp 524,India,INR,2/10 Net 30,2.29,Rare Earths,Inactive
+SUP-00525,Sino Microtech 525,China,CNY,Net 60,3.19,Rare Earths,Active
+SUP-00526,Global Polymer Corp 526,Japan,JPY,Net 30,2.55,Freight,Active
+SUP-00527,Precision Industrial 527,South Korea,KRW,Net 60,2.35,Rare Earths,Active
+SUP-00528,Titan Cable & Wire 528,UK,GBP,2/10 Net 30,3.9,Rare Earths,Active
+SUP-00529,Precision Logistics Parts 529,India,INR,Net 30,2.99,Rare Earths,Active
+SUP-00530,Bavarian Metal Tech 530,Germany,EUR,Net 30,3.23,Steel,Under Review
+SUP-00531,Apex Logistics Parts 531,South Korea,KRW,Net 30,4.5,Freight,Active
+SUP-00532,Sino Polymer Corp 532,China,CNY,COD,,Freight,Preferred
+SUP-00533,Apex Polymer Corp 533,Unknown,USD,COD,4.97,Steel,Inactive
+SUP-00534,Atlas Metal Tech 534,China,CNY,Net 30,4.37,Electronics,Inactive
+SUP-00535,Titan Microtech 535,Canada,CAD,Net 30,3.42,Steel,Inactive
+SUP-00536,Precision Microtech 536,China,CNY,LC At Sight,3.74,Packaging,Active
+SUP-00537,Apex Metal Tech 537,USA,USD,Net 30,3.71,Freight,Preferred
+SUP-00538,Atlas Chemical Resins 538,Chile,USD,Net 30,4.97,Electronics,Active
+SUP-00539,Apex Microtech 539,UK,GBP,Net 60,4.19,Crude Oil / Polymers,Active
+SUP-00540,Global Microtech 540,Vietnam,VND,LC At Sight,4.5,Electronics,Under Review
+SUP-00541,Precision Industrial 541,Germany,EUR,2/10 Net 30,4.54,Electronics,Active
+SUP-00542,Global Cable & Wire 542,UK,GBP,Net 30,4.96,Freight,Active
+SUP-00543,Apex Polymer Corp 543,South Korea,KRW,2/10 Net 30,3.46,Crude Oil / Polymers,Preferred
+SUP-00544,Titan Cable & Wire 544,Chile,USD,Net 30,2.32,Electronics,Under Review
+SUP-00545,Bavarian Logistics Parts 545,Germany,EUR,LC At Sight,3.27,Copper,Active
+SUP-00546,Atlas Polymer Corp 546,Unknown,VND,Net 30,,Steel,Preferred
+SUP-00547,Sino Chemical Resins 547,UK,GBP,Net 30,3.66,Freight,Active
+SUP-00548,Titan Polymer Corp 548,Taiwan,TWD,Net 30,3.47,Packaging,Inactive
+SUP-00549,Nippon Chemical Resins 549,USA,USD,2/10 Net 30,4.5,Packaging,Active
+SUP-00550,Precision Chemical Resins 550,China,CNY,COD,4.98,Electronics,Preferred
+SUP-00551,Apex Polymer Corp 551,Taiwan,TWD,Net 30,3.47,Copper,Inactive
+SUP-00552,Sino Electronics 552,India,INR,Net 30,3.76,Packaging,Inactive
+SUP-00553,Atlas Metal Tech 553,Chile,USD,LC At Sight,2.09,Electronics,Inactive
+SUP-00554,Precision Polymer Corp 554,India,INR,Net 30,3.03,Crude Oil / Polymers,Active
+SUP-00555,Precision Metal Tech 555,Germany,EUR,2/10 Net 30,2.31,Packaging,Inactive
+SUP-00556,Pacific Cable & Wire 556,Japan,JPY,Net 30,2.13,Freight,Active
+SUP-00557,Pacific Chemical Resins 557,Japan,JPY,Net 30,4.74,Electronics,Active
+SUP-00558,Bavarian Industrial 558,Chile,USD,Net 30,4.5,Electronics,Active
+SUP-00559,Sino Electronics 559,Unknown,MXN,Net 30,3.01,Crude Oil / Polymers,Under Review
+SUP-00560,Vanguard Industrial 560,Japan,JPY,COD,,Rare Earths,Inactive
+SUP-00561,Global Metal Tech 561,Germany,EUR,Net 30,2.06,Rare Earths,Under Review
+SUP-00562,Vanguard Microtech 562,USA,USD,Net 60,4.83,Rare Earths,Inactive
+SUP-00563,Global Polymer Corp 563,UK,GBP,COD,2.65,Packaging,Inactive
+SUP-00564,Apex Metal Tech 564,Germany,EUR,Net 60,2.4,Steel,Active
+SUP-00565,Bavarian Logistics Parts 565,Japan,JPY,Net 30,4.2,Rare Earths,Preferred
+SUP-00566,Horizon Chemical Resins 566,Taiwan,TWD,LC At Sight,4.28,Electronics,Active
+SUP-00567,Atlas Microtech 567,Canada,CAD,Net 30,4.5,Rare Earths,Active
+SUP-00568,Apex Microtech 568,Taiwan,TWD,Net 30,2.02,Freight,Inactive
+SUP-00569,Atlas Industrial 569,Chile,USD,COD,2.8,Freight,Preferred
+SUP-00570,Apex Industrial 570,Taiwan,TWD,Net 30,3.9,Steel,Active
+SUP-00571,Pacific Industrial 571,Germany,EUR,Net 30,2.53,Electronics,Preferred
+SUP-00572,Precision Industrial 572,Unknown,CAD,Net 30,4.68,Rare Earths,Under Review
+SUP-00573,Titan Electronics 573,Taiwan,TWD,2/10 Net 30,3.08,Copper,Under Review
+SUP-00574,Horizon Chemical Resins 574,South Korea,KRW,Net 30,,Crude Oil / Polymers,Active
+SUP-00575,Apex Metal Tech 575,Mexico,MXN,LC At Sight,3.4,Crude Oil / Polymers,Inactive
+SUP-00576,Vanguard Electronics 576,UK,GBP,LC At Sight,4.5,Electronics,Inactive
+SUP-00577,Global Metal Tech 577,USA,USD,LC At Sight,4.27,Crude Oil / Polymers,Active
+SUP-00578,Nippon Chemical Resins 578,UK,GBP,Net 30,3.73,Electronics,Active
+SUP-00579,Horizon Electronics 579,UK,GBP,Net 30,3.47,Steel,Active
+SUP-00580,Horizon Chemical Resins 580,Chile,USD,LC At Sight,2.05,Copper,Active
+SUP-00581,Precision Microtech 581,India,INR,Net 30,3.02,Steel,Active
+SUP-00582,Precision Polymer Corp 582,USA,USD,Net 30,4.19,Freight,Active
+SUP-00583,Bavarian Cable & Wire 583,Germany,EUR,Net 30,2.46,Packaging,Inactive
+SUP-00584,Global Cable & Wire 584,South Korea,KRW,COD,4.23,Rare Earths,Active
+SUP-00585,Nippon Industrial 585,Unknown,CNY,Net 30,4.5,Rare Earths,Active
+SUP-00586,Sino Industrial 586,Japan,JPY,COD,3.24,Electronics,Inactive
+SUP-00587,Titan Electronics 587,Japan,JPY,Net 30,2.63,Electronics,Active
+SUP-00588,Pacific Polymer Corp 588,South Korea,KRW,Net 60,,Steel,Inactive
+SUP-00589,Vanguard Metal Tech 589,UK,GBP,COD,2.43,Electronics,Active
+SUP-00590,Precision Electronics 590,USA,USD,Net 30,2.72,Freight,Under Review
+SUP-00591,Horizon Industrial 591,UK,GBP,Net 30,3.56,Electronics,Preferred
+SUP-00592,Atlas Microtech 592,Mexico,MXN,Net 60,3.56,Rare Earths,Preferred
+SUP-00593,Precision Microtech 593,Chile,USD,LC At Sight,2.4,Steel,Active
+SUP-00594,Vanguard Industrial 594,USA,USD,LC At Sight,4.5,Freight,Active
+SUP-00595,Sino Industrial 595,Vietnam,VND,Net 30,4.78,Crude Oil / Polymers,Active
+SUP-00596,Bavarian Logistics Parts 596,Vietnam,VND,COD,3.82,Rare Earths,Inactive
+SUP-00597,Apex Microtech 597,Germany,EUR,Net 60,3.61,Freight,Under Review
+SUP-00598,Apex Metal Tech 598,Unknown,USD,Net 30,2.77,Copper,Preferred
+SUP-00599,Andean Chemical Resins 599,Mexico,MXN,2/10 Net 30,3.12,Freight,Active
+sup_600,Precision Logistics Parts 600,India,INR,Net 30,4.77,Packaging,Active
+SUP-00601,Horizon Microtech 601,Vietnam,VND,Net 30,2.42,Steel,Preferred
+SUP-00602,Nippon Polymer Corp 602,USA,USD,2/10 Net 30,,Electronics,Active
+SUP-00603,Titan Polymer Corp 603,Mexico,MXN,2/10 Net 30,4.5,Copper,Inactive
+SUP-00604,Atlas Electronics 604,Mexico,MXN,LC At Sight,3.05,Rare Earths,Active
+SUP-00605,Apex Industrial 605,Japan,JPY,Net 30,2.81,Electronics,Inactive
+SUP-00606,Pacific Polymer Corp 606,China,CNY,Net 30,4.49,Crude Oil / Polymers,Inactive
+SUP-00607,Precision Cable & Wire 607,Vietnam,VND,2/10 Net 30,3.15,Electronics,Inactive
+SUP-00608,Titan Industrial 608,Japan,JPY,Net 30,3.08,Electronics,Preferred
+SUP-00609,Horizon Cable & Wire 609,India,INR,Net 60,2.8,Crude Oil / Polymers,Active
+SUP-00610,Nippon Industrial 610,Germany,EUR,Net 60,4.02,Crude Oil / Polymers,Active
+SUP-00611,Andean Industrial 611,Unknown,VND,Net 60,4.75,Freight,Preferred
+SUP-00612,Precision Cable & Wire 612,USA,USD,Net 60,4.5,Rare Earths,Active
+SUP-00613,Nippon Cable & Wire 613,China,CNY,COD,4.96,Packaging,Inactive
+SUP-00614,Nippon Industrial 614,India,INR,Net 60,2.7,Freight,Inactive
+SUP-00615,Bavarian Metal Tech 615,USA,USD,Net 60,2.93,Steel,Active
+SUP-00616,Titan Cable & Wire 616,Taiwan,TWD,Net 60,,Electronics,Preferred
+SUP-00617,Vanguard Logistics Parts 617,South Korea,KRW,LC At Sight,4.13,Copper,Inactive
+SUP-00618,Andean Polymer Corp 618,Japan,JPY,Net 30,4.81,Freight,Active
+SUP-00619,Apex Electronics 619,Germany,EUR,LC At Sight,4.94,Copper,Active
+SUP-00620,Vanguard Logistics Parts 620,Chile,USD,2/10 Net 30,2.08,Steel,Active
+SUP-00621,Apex Chemical Resins 621,Vietnam,VND,Net 30,4.5,Packaging,Active
+SUP-00622,Global Logistics Parts 622,Chile,USD,Net 30,2.03,Copper,Active
+SUP-00623,Global Cable & Wire 623,Mexico,MXN,LC At Sight,2.85,Electronics,Inactive
+SUP-00624,Andean Industrial 624,Unknown,USD,Net 60,4.84,Copper,Preferred
+SUP-00625,Pacific Chemical Resins 625,South Korea,KRW,Net 60,4.45,Packaging,Inactive
+SUP-00626,Nippon Polymer Corp 626,India,INR,Net 30,3.08,Freight,Inactive
+SUP-00627,Precision Polymer Corp 627,Chile,USD,Net 30,2.68,Copper,Active
+SUP-00628,Vanguard Chemical Resins 628,Chile,USD,Net 30,3.89,Copper,Inactive
+SUP-00629,Apex Electronics 629,Canada,CAD,LC At Sight,2.85,Electronics,Active
+SUP-00630,Sino Cable & Wire 630,India,INR,2/10 Net 30,4.5,Crude Oil / Polymers,Inactive
+SUP-00631,Global Chemical Resins 631,Japan,JPY,COD,2.12,Steel,Preferred
+SUP-00632,Bavarian Metal Tech 632,Germany,EUR,COD,2.37,Electronics,Active
+SUP-00633,Titan Cable & Wire 633,Mexico,MXN,LC At Sight,3.6,Steel,Inactive
+SUP-00634,Titan Chemical Resins 634,India,INR,Net 60,4.26,Copper,Active
+SUP-00635,Pacific Electronics 635,Germany,EUR,2/10 Net 30,4.25,Steel,Preferred
+SUP-00636,Sino Polymer Corp 636,Canada,CAD,Net 60,4.65,Rare Earths,Active
+SUP-00637,Horizon Industrial 637,Unknown,TWD,COD,4.13,Crude Oil / Polymers,Active
+SUP-00638,Bavarian Chemical Resins 638,India,INR,2/10 Net 30,3.85,Packaging,Under Review
+SUP-00639,Horizon Cable & Wire 639,Germany,EUR,Net 30,4.5,Copper,Inactive
+SUP-00640,Vanguard Chemical Resins 640,South Korea,KRW,Net 30,3.8,Packaging,Inactive
+SUP-00641,Pacific Cable & Wire 641,India,INR,Net 30,4.78,Freight,Under Review
+SUP-00642,Apex Cable & Wire 642,Mexico,MXN,Net 30,4.39,Packaging,Active
+SUP-00643,Nippon Logistics Parts 643,Mexico,MXN,2/10 Net 30,4.98,Crude Oil / Polymers,Preferred
+SUP-00644,Apex Logistics Parts 644,Taiwan,TWD,Net 60,,Crude Oil / Polymers,Active
+SUP-00645,Bavarian Industrial 645,Canada,CAD,2/10 Net 30,3.61,Copper,Active
+SUP-00646,Global Polymer Corp 646,Chile,USD,2/10 Net 30,3.23,Copper,Inactive
+SUP-00647,Atlas Chemical Resins 647,Germany,EUR,Net 30,4.28,Steel,Active
+SUP-00648,Nippon Metal Tech 648,China,CNY,Net 30,4.5,Rare Earths,Under Review
+SUP-00649,Global Industrial 649,Taiwan,TWD,2/10 Net 30,2.68,Rare Earths,Active
+SUP-00650,Horizon Metal Tech 650,Unknown,CNY,COD,4.64,Crude Oil / Polymers,Under Review
+SUP-00651,Apex Logistics Parts 651,Mexico,MXN,Net 30,4.75,Electronics,Inactive
+SUP-00652,Nippon Logistics Parts 652,Taiwan,TWD,LC At Sight,3.56,Packaging,Under Review
+SUP-00653,Titan Industrial 653,Mexico,MXN,Net 30,2.71,Rare Earths,Under Review
+SUP-00654,Sino Logistics Parts 654,Vietnam,VND,Net 60,2.11,Steel,Inactive
+SUP-00655,Vanguard Cable & Wire 655,Chile,USD,Net 30,3.6,Packaging,Inactive
+SUP-00656,Vanguard Metal Tech 656,Mexico,MXN,Net 30,3.86,Crude Oil / Polymers,Preferred
+SUP-00657,Atlas Microtech 657,Taiwan,TWD,Net 30,4.5,Copper,Active
+SUP-00658,Apex Electronics 658,USA,USD,LC At Sight,,Packaging,Active
+SUP-00659,Precision Cable & Wire 659,Mexico,MXN,LC At Sight,4.88,Rare Earths,Inactive
+SUP-00660,Bavarian Polymer Corp 660,Taiwan,TWD,Net 60,3.99,Packaging,Active
+SUP-00661,Apex Chemical Resins 661,Taiwan,TWD,COD,4.11,Electronics,Active
+SUP-00662,Horizon Microtech 662,Chile,USD,COD,2.52,Crude Oil / Polymers,Active
+SUP-00663,Sino Metal Tech 663,Unknown,GBP,Net 30,2.2,Steel,Inactive
+SUP-00664,Precision Microtech 664,UK,GBP,2/10 Net 30,2.51,Freight,Active
+SUP-00665,Pacific Microtech 665,Germany,EUR,Net 30,2.21,Crude Oil / Polymers,Under Review
+SUP-00666,Titan Electronics 666,Taiwan,TWD,Net 30,4.5,Steel,Active
+SUP-00667,Bavarian Metal Tech 667,Germany,EUR,Net 30,3.47,Freight,Inactive
+SUP-00668,Sino Chemical Resins 668,South Korea,KRW,LC At Sight,3.11,Crude Oil / Polymers,Inactive
+SUP-00669,Atlas Logistics Parts 669,UK,GBP,COD,3.47,Copper,Preferred
+SUP-00670,Apex Electronics 670,China,CNY,LC At Sight,3.16,Copper,Preferred
+SUP-00671,Sino Polymer Corp 671,UK,GBP,LC At Sight,4.75,Electronics,Preferred
+SUP-00672,Precision Industrial 672,USA,USD,COD,,Packaging,Active
+SUP-00673,Titan Logistics Parts 673,Vietnam,VND,Net 30,4.35,Freight,Inactive
+SUP-00674,Atlas Microtech 674,Japan,JPY,COD,2.81,Steel,Active
+SUP-00675,Global Cable & Wire 675,Chile,USD,Net 30,4.5,Freight,Active
+SUP-00676,Sino Logistics Parts 676,Unknown,GBP,Net 30,2.28,Crude Oil / Polymers,Active
+SUP-00677,Apex Chemical Resins 677,Canada,CAD,Net 30,2.42,Electronics,Active
+SUP-00678,Atlas Polymer Corp 678,Chile,USD,Net 30,2.95,Steel,Active
+SUP-00679,Nippon Microtech 679,Vietnam,VND,2/10 Net 30,4.79,Crude Oil / Polymers,Inactive
+SUP-00680,Precision Logistics Parts 680,India,INR,Net 30,3.47,Electronics,Inactive
+SUP-00681,Andean Cable & Wire 681,USA,USD,LC At Sight,2.25,Crude Oil / Polymers,Preferred
+SUP-00682,Atlas Logistics Parts 682,Japan,JPY,LC At Sight,3.52,Packaging,Preferred
+SUP-00683,Global Electronics 683,Canada,CAD,Net 30,2.06,Steel,Inactive
+SUP-00684,Titan Cable & Wire 684,Japan,JPY,Net 30,4.5,Packaging,Active
+SUP-00685,Nippon Cable & Wire 685,Taiwan,TWD,Net 30,4.29,Electronics,Active
+SUP-00686,Titan Chemical Resins 686,Mexico,MXN,2/10 Net 30,,Copper,Inactive
+SUP-00687,Andean Chemical Resins 687,UK,GBP,Net 30,2.74,Packaging,Inactive
+SUP-00688,Nippon Metal Tech 688,India,INR,LC At Sight,2.93,Steel,Active
+SUP-00689,Sino Polymer Corp 689,Unknown,VND,Net 30,4.81,Copper,Under Review
+SUP-00690,Pacific Cable & Wire 690,Canada,CAD,Net 30,3.16,Steel,Active
+SUP-00691,Sino Industrial 691,Germany,EUR,Net 60,4.52,Electronics,Active
+SUP-00692,Sino Polymer Corp 692,Taiwan,TWD,Net 30,3.14,Steel,Active
+SUP-00693,Sino Logistics Parts 693,South Korea,KRW,2/10 Net 30,4.5,Copper,Inactive
+SUP-00694,Bavarian Microtech 694,UK,GBP,Net 30,2.32,Steel,Inactive
+SUP-00695,Apex Electronics 695,UK,GBP,2/10 Net 30,2.36,Rare Earths,Inactive
+SUP-00696,Vanguard Metal Tech 696,Canada,CAD,LC At Sight,3.29,Crude Oil / Polymers,Active
+SUP-00697,Nippon Microtech 697,Germany,EUR,Net 30,2.32,Electronics,Active
+SUP-00698,Sino Chemical Resins 698,UK,GBP,COD,3.73,Packaging,Inactive
+SUP-00699,Bavarian Polymer Corp 699,India,INR,Net 30,3.3,Steel,Active
+SUP-00700,Nippon Metal Tech 700,India,INR,Net 60,,Packaging,Active
+SUP-00701,Nippon Logistics Parts 701,Taiwan,TWD,COD,3.53,Electronics,Active
+SUP-00702,Pacific Cable & Wire 702,Unknown,CAD,Net 30,4.5,Steel,Active
+SUP-00703,Vanguard Metal Tech 703,USA,USD,LC At Sight,4.61,Crude Oil / Polymers,Inactive
+SUP-00704,Global Polymer Corp 704,China,CNY,2/10 Net 30,4.24,Copper,Active
+SUP-00705,Apex Logistics Parts 705,China,CNY,Net 30,3.92,Rare Earths,Active
+SUP-00706,Apex Electronics 706,India,INR,Net 30,3.97,Steel,Inactive
+SUP-00707,Precision Microtech 707,China,CNY,COD,4.83,Freight,Under Review
+SUP-00708,Andean Electronics 708,Canada,CAD,Net 60,4.24,Rare Earths,Preferred
+SUP-00709,Global Electronics 709,South Korea,KRW,COD,4.7,Copper,Active
+SUP-00710,Sino Logistics Parts 710,USA,USD,Net 60,4.56,Freight,Inactive
+SUP-00711,Horizon Chemical Resins 711,Germany,EUR,COD,4.5,Steel,Active
+SUP-00712,Vanguard Electronics 712,Japan,JPY,2/10 Net 30,3.04,Electronics,Under Review
+SUP-00713,Pacific Industrial 713,Canada,CAD,Net 60,3.32,Rare Earths,Active
+SUP-00714,Sino Chemical Resins 714,India,INR,2/10 Net 30,,Copper,Active
+SUP-00715,Atlas Microtech 715,Unknown,TWD,LC At Sight,2.66,Rare Earths,Inactive
+SUP-00716,Precision Polymer Corp 716,Canada,CAD,2/10 Net 30,3.93,Steel,Active
+SUP-00717,Vanguard Chemical Resins 717,Chile,USD,Net 60,2.76,Rare Earths,Active
+SUP-00718,Nippon Logistics Parts 718,Taiwan,TWD,Net 30,4.16,Freight,Active
+SUP-00719,Nippon Metal Tech 719,Chile,USD,2/10 Net 30,4.74,Electronics,Inactive
+SUP-00720,Apex Electronics 720,China,CNY,LC At Sight,4.5,Electronics,Under Review
+SUP-00721,Titan Logistics Parts 721,USA,USD,Net 60,2.37,Copper,Inactive
+SUP-00722,Nippon Industrial 722,Japan,JPY,Net 60,2.01,Crude Oil / Polymers,Inactive
+SUP-00723,Global Chemical Resins 723,South Korea,KRW,LC At Sight,4.96,Copper,Inactive
+SUP-00724,Precision Industrial 724,South Korea,KRW,2/10 Net 30,2.93,Electronics,Active
+SUP-00725,Nippon Industrial 725,Vietnam,VND,Net 30,3.01,Packaging,Active
+SUP-00726,Pacific Chemical Resins 726,USA,USD,2/10 Net 30,3.6,Steel,Active
+SUP-00727,Apex Cable & Wire 727,Chile,USD,Net 60,4.84,Freight,Active
+SUP-00728,Atlas Electronics 728,Unknown,CAD,COD,,Electronics,Under Review
+SUP-00729,Atlas Logistics Parts 729,Germany,EUR,Net 30,4.5,Crude Oil / Polymers,Active
+SUP-00730,Horizon Cable & Wire 730,India,INR,2/10 Net 30,3.58,Rare Earths,Active
+SUP-00731,Apex Metal Tech 731,India,INR,2/10 Net 30,2.4,Crude Oil / Polymers,Active
+SUP-00732,Vanguard Chemical Resins 732,Canada,CAD,2/10 Net 30,3.87,Freight,Inactive
+SUP-00733,Vanguard Chemical Resins 733,Taiwan,TWD,Net 30,2.91,Freight,Active
+SUP-00734,Atlas Cable & Wire 734,India,INR,Net 30,2.52,Rare Earths,Active
+SUP-00735,Pacific Microtech 735,Germany,EUR,2/10 Net 30,4.09,Electronics,Inactive
+SUP-00736,Precision Electronics 736,South Korea,KRW,COD,4.02,Packaging,Active
+SUP-00737,Atlas Chemical Resins 737,Taiwan,TWD,Net 30,3,Packaging,Inactive
+SUP-00738,Andean Polymer Corp 738,Vietnam,VND,2/10 Net 30,4.5,Copper,Preferred
+SUP-00739,Global Industrial 739,China,CNY,COD,3.47,Freight,Under Review
+SUP-00740,Apex Polymer Corp 740,Mexico,MXN,Net 30,3.87,Freight,Inactive
+SUP-00741,Sino Logistics Parts 741,Unknown,GBP,Net 60,4.45,Packaging,Active
+SUP-00742,Nippon Cable & Wire 742,Chile,USD,Net 30,,Electronics,Inactive
+SUP-00743,Pacific Logistics Parts 743,USA,USD,LC At Sight,4.29,Steel,Active
+SUP-00744,Nippon Electronics 744,Chile,USD,Net 30,4.45,Crude Oil / Polymers,Under Review
+SUP-00745,Global Logistics Parts 745,Taiwan,TWD,Net 30,4.49,Electronics,Preferred
+SUP-00746,Nippon Cable & Wire 746,Germany,EUR,LC At Sight,2.96,Electronics,Preferred
+SUP-00747,Titan Logistics Parts 747,India,INR,Net 60,4.5,Electronics,Inactive
+SUP-00748,Pacific Chemical Resins 748,Japan,JPY,COD,3.66,Electronics,Active
+SUP-00749,Horizon Electronics 749,China,CNY,LC At Sight,2.74,Crude Oil / Polymers,Under Review
+sup_750,Pacific Logistics Parts 750,Canada,CAD,LC At Sight,2.04,Crude Oil / Polymers,Active
+SUP-00751,Horizon Logistics Parts 751,Vietnam,VND,Net 30,2.11,Crude Oil / Polymers,Preferred
+SUP-00752,Horizon Electronics 752,India,INR,Net 30,2.96,Steel,Preferred
+SUP-00753,Vanguard Metal Tech 753,Vietnam,VND,Net 30,2.5,Rare Earths,Active
+SUP-00754,Nippon Electronics 754,Unknown,MXN,2/10 Net 30,3.09,Rare Earths,Under Review
+SUP-00755,Nippon Logistics Parts 755,Vietnam,VND,LC At Sight,3.39,Copper,Inactive
+SUP-00756,Global Polymer Corp 756,Canada,CAD,Net 60,4.5,Copper,Inactive
+SUP-00757,Vanguard Chemical Resins 757,Canada,CAD,LC At Sight,4.44,Steel,Preferred
+SUP-00758,Precision Microtech 758,UK,GBP,COD,4.64,Copper,Active
+SUP-00759,Global Industrial 759,Germany,EUR,2/10 Net 30,3.38,Electronics,Active
+SUP-00760,Sino Metal Tech 760,South Korea,KRW,COD,3.62,Crude Oil / Polymers,Inactive
+SUP-00761,Global Microtech 761,Mexico,MXN,Net 30,4.17,Electronics,Active
+SUP-00762,Nippon Polymer Corp 762,USA,USD,Net 30,3.72,Rare Earths,Active
+SUP-00763,Nippon Chemical Resins 763,Germany,EUR,Net 60,2.14,Rare Earths,Active
+SUP-00764,Nippon Industrial 764,Japan,JPY,Net 30,3.82,Crude Oil / Polymers,Active
+SUP-00765,Bavarian Industrial 765,USA,USD,Net 30,4.5,Copper,Preferred
+SUP-00766,Titan Cable & Wire 766,Mexico,MXN,Net 60,4.44,Rare Earths,Active
+SUP-00767,Nippon Electronics 767,Unknown,GBP,Net 30,4.53,Packaging,Inactive
+SUP-00768,Horizon Electronics 768,USA,USD,Net 30,3.63,Freight,Inactive
+SUP-00769,Atlas Chemical Resins 769,Vietnam,VND,Net 30,2.62,Rare Earths,Active
+SUP-00770,Andean Microtech 770,Chile,USD,Net 30,,Freight,Under Review
+SUP-00771,Andean Microtech 771,Chile,USD,LC At Sight,2.39,Copper,Active
+SUP-00772,Sino Industrial 772,India,INR,Net 30,3.32,Freight,Active
+SUP-00773,Vanguard Cable & Wire 773,Chile,USD,Net 30,3.12,Steel,Active
+SUP-00774,Bavarian Chemical Resins 774,USA,USD,COD,4.5,Copper,Active
+SUP-00775,Sino Metal Tech 775,Taiwan,TWD,LC At Sight,4.3,Freight,Active
+SUP-00776,Global Electronics 776,Chile,USD,Net 30,2.27,Packaging,Under Review
+SUP-00777,Sino Polymer Corp 777,UK,GBP,LC At Sight,2.07,Freight,Active
+SUP-00778,Global Polymer Corp 778,Mexico,MXN,COD,2.22,Copper,Inactive
+SUP-00779,Bavarian Industrial 779,UK,GBP,COD,4.01,Rare Earths,Inactive
+SUP-00780,Global Polymer Corp 780,Unknown,USD,Net 30,3.72,Crude Oil / Polymers,Active
+SUP-00781,Vanguard Logistics Parts 781,Canada,CAD,COD,4.34,Packaging,Inactive
+SUP-00782,Sino Polymer Corp 782,South Korea,KRW,2/10 Net 30,4.94,Freight,Under Review
+SUP-00783,Global Microtech 783,Taiwan,TWD,LC At Sight,4.5,Steel,Active
+SUP-00784,Andean Logistics Parts 784,India,INR,Net 30,,Freight,Inactive
+SUP-00785,Bavarian Logistics Parts 785,Canada,CAD,2/10 Net 30,3.74,Packaging,Active
+SUP-00786,Bavarian Metal Tech 786,Japan,JPY,LC At Sight,3.31,Electronics,Active
+SUP-00787,Precision Logistics Parts 787,Chile,USD,Net 30,3.95,Electronics,Active
+SUP-00788,Bavarian Industrial 788,USA,USD,Net 30,4.76,Packaging,Under Review
+SUP-00789,Sino Logistics Parts 789,Canada,CAD,Net 60,4.95,Rare Earths,Inactive
+SUP-00790,Vanguard Polymer Corp 790,UK,GBP,Net 30,3.71,Freight,Under Review
+SUP-00791,Precision Chemical Resins 791,Mexico,MXN,Net 30,3.42,Packaging,Active
+SUP-00792,Titan Microtech 792,Japan,JPY,Net 30,4.5,Rare Earths,Inactive
+SUP-00793,Pacific Cable & Wire 793,Unknown,EUR,COD,4.09,Rare Earths,Active
+SUP-00794,Vanguard Metal Tech 794,India,INR,Net 30,3.41,Rare Earths,Active
+SUP-00795,Nippon Electronics 795,China,CNY,COD,4.13,Crude Oil / Polymers,Inactive
+SUP-00796,Precision Cable & Wire 796,UK,GBP,Net 30,2.93,Copper,Active
+SUP-00797,Precision Cable & Wire 797,UK,GBP,COD,4.54,Copper,Active
+SUP-00798,Atlas Logistics Parts 798,Taiwan,TWD,Net 60,,Steel,Inactive
+SUP-00799,Bavarian Electronics 799,South Korea,KRW,Net 30,3.22,Electronics,Inactive
+SUP-00800,Vanguard Chemical Resins 800,Mexico,MXN,COD,2.51,Freight,Inactive
+SUP-00801,Vanguard Industrial 801,Vietnam,VND,Net 60,4.5,Crude Oil / Polymers,Active
+SUP-00802,Andean Electronics 802,India,INR,COD,4.59,Rare Earths,Active
+SUP-00803,Apex Logistics Parts 803,UK,GBP,LC At Sight,2.18,Crude Oil / Polymers,Inactive
+SUP-00804,Horizon Microtech 804,Vietnam,VND,COD,2.6,Electronics,Active
+SUP-00805,Bavarian Electronics 805,South Korea,KRW,2/10 Net 30,3.34,Electronics,Inactive
+SUP-00806,Pacific Cable & Wire 806,Unknown,CAD,LC At Sight,2.08,Copper,Preferred
+SUP-00807,Vanguard Microtech 807,Taiwan,TWD,Net 60,3.13,Freight,Preferred
+SUP-00808,Andean Polymer Corp 808,Vietnam,VND,COD,2.34,Copper,Inactive
+SUP-00809,Apex Logistics Parts 809,Mexico,MXN,2/10 Net 30,3.77,Copper,Inactive
+SUP-00810,Vanguard Microtech 810,Germany,EUR,LC At Sight,4.5,Copper,Active
+SUP-00811,Global Cable & Wire 811,Mexico,MXN,Net 30,3.42,Steel,Active
+SUP-00812,Titan Industrial 812,Germany,EUR,Net 30,,Copper,Under Review
+SUP-00813,Pacific Logistics Parts 813,Vietnam,VND,Net 30,2.74,Electronics,Active
+SUP-00814,Vanguard Polymer Corp 814,Japan,JPY,COD,3.36,Crude Oil / Polymers,Active
+SUP-00815,Nippon Metal Tech 815,Japan,JPY,Net 30,2.41,Rare Earths,Under Review
+SUP-00816,Global Electronics 816,Chile,USD,Net 30,3.41,Copper,Under Review
+SUP-00817,Andean Electronics 817,Japan,JPY,2/10 Net 30,2.38,Packaging,Inactive
+SUP-00818,Vanguard Electronics 818,Japan,JPY,Net 30,3.76,Crude Oil / Polymers,Active
+SUP-00819,Apex Logistics Parts 819,Unknown,EUR,2/10 Net 30,4.5,Steel,Active
+SUP-00820,Apex Microtech 820,Chile,USD,Net 30,2.85,Electronics,Under Review
+SUP-00821,Pacific Cable & Wire 821,South Korea,KRW,2/10 Net 30,3.52,Electronics,Active
+SUP-00822,Precision Electronics 822,USA,USD,COD,3.15,Steel,Preferred
+SUP-00823,Global Cable & Wire 823,Mexico,MXN,Net 60,4.19,Electronics,Active
+SUP-00824,Andean Metal Tech 824,USA,USD,Net 30,2.93,Rare Earths,Preferred
+SUP-00825,Bavarian Industrial 825,Canada,CAD,Net 30,4.17,Steel,Inactive
+SUP-00826,Horizon Polymer Corp 826,UK,GBP,Net 30,,Steel,Active
+SUP-00827,Global Electronics 827,UK,GBP,Net 60,2.52,Steel,Inactive
+SUP-00828,Atlas Chemical Resins 828,China,CNY,COD,4.5,Steel,Inactive
+SUP-00829,Pacific Electronics 829,Chile,USD,Net 30,2.61,Copper,Inactive
+SUP-00830,Andean Industrial 830,Mexico,MXN,Net 30,3.66,Copper,Active
+SUP-00831,Bavarian Logistics Parts 831,India,INR,Net 30,3.32,Steel,Inactive
+SUP-00832,Global Microtech 832,Unknown,TWD,LC At Sight,4.29,Freight,Under Review
+SUP-00833,Atlas Chemical Resins 833,Canada,CAD,Net 60,2.59,Rare Earths,Under Review
+SUP-00834,Bavarian Microtech 834,Mexico,MXN,COD,4.86,Freight,Inactive
+SUP-00835,Vanguard Microtech 835,USA,USD,Net 30,4.85,Steel,Under Review
+SUP-00836,Atlas Metal Tech 836,Taiwan,TWD,COD,5,Crude Oil / Polymers,Active
+SUP-00837,Pacific Chemical Resins 837,Germany,EUR,LC At Sight,4.5,Copper,Active
+SUP-00838,Titan Cable & Wire 838,Germany,EUR,Net 60,4.01,Electronics,Active
+SUP-00839,Vanguard Cable & Wire 839,South Korea,KRW,2/10 Net 30,2.71,Rare Earths,Active
+SUP-00840,Global Metal Tech 840,Germany,EUR,COD,,Rare Earths,Active
+SUP-00841,Precision Logistics Parts 841,UK,GBP,Net 30,4.57,Steel,Inactive
+SUP-00842,Vanguard Microtech 842,Canada,CAD,Net 30,4.82,Crude Oil / Polymers,Preferred
+SUP-00843,Global Industrial 843,Chile,USD,Net 30,2.37,Electronics,Active
+SUP-00844,Pacific Microtech 844,Vietnam,VND,COD,4.89,Rare Earths,Active
+SUP-00845,Precision Microtech 845,Unknown,EUR,LC At Sight,3.66,Steel,Preferred
+SUP-00846,Andean Chemical Resins 846,USA,USD,Net 60,4.5,Crude Oil / Polymers,Under Review
+SUP-00847,Sino Logistics Parts 847,USA,USD,Net 60,2.28,Steel,Under Review
+SUP-00848,Bavarian Cable & Wire 848,Japan,JPY,LC At Sight,4.28,Electronics,Preferred
+SUP-00849,Global Industrial 849,Germany,EUR,Net 60,3.97,Electronics,Inactive
+SUP-00850,Apex Polymer Corp 850,UK,GBP,Net 60,3.46,Steel,Inactive
+SUP-00851,Nippon Polymer Corp 851,Germany,EUR,LC At Sight,3.09,Freight,Active
+SUP-00852,Atlas Industrial 852,Japan,JPY,COD,3.82,Steel,Active
+SUP-00853,Nippon Microtech 853,India,INR,COD,3.46,Packaging,Active
+SUP-00854,Atlas Logistics Parts 854,Taiwan,TWD,LC At Sight,,Copper,Under Review
+SUP-00855,Bavarian Electronics 855,Vietnam,VND,Net 60,4.5,Crude Oil / Polymers,Preferred
+SUP-00856,Andean Chemical Resins 856,Japan,JPY,Net 30,3.19,Copper,Active
+SUP-00857,Nippon Chemical Resins 857,UK,GBP,LC At Sight,2.8,Copper,Inactive
+SUP-00858,Apex Polymer Corp 858,Unknown,CAD,Net 30,2.51,Freight,Under Review
+SUP-00859,Nippon Industrial 859,USA,USD,Net 60,4.07,Rare Earths,Inactive
+SUP-00860,Vanguard Chemical Resins 860,Japan,JPY,Net 30,2.44,Packaging,Active
+SUP-00861,Precision Microtech 861,China,CNY,LC At Sight,2.71,Crude Oil / Polymers,Active
+SUP-00862,Apex Industrial 862,Mexico,MXN,Net 30,3.41,Electronics,Inactive
+SUP-00863,Sino Metal Tech 863,Germany,EUR,2/10 Net 30,3.43,Electronics,Preferred
+SUP-00864,Bavarian Metal Tech 864,Japan,JPY,LC At Sight,4.5,Freight,Preferred
+SUP-00865,Titan Chemical Resins 865,USA,USD,Net 30,3.95,Electronics,Inactive
+SUP-00866,Horizon Logistics Parts 866,Vietnam,VND,Net 30,4.2,Freight,Preferred
+SUP-00867,Horizon Electronics 867,South Korea,KRW,Net 60,3.29,Electronics,Active
+SUP-00868,Pacific Metal Tech 868,Germany,EUR,Net 60,,Electronics,Preferred
+SUP-00869,Bavarian Logistics Parts 869,India,INR,Net 60,3.86,Copper,Active
+SUP-00870,Horizon Logistics Parts 870,UK,GBP,Net 60,3.02,Copper,Preferred
+SUP-00871,Vanguard Logistics Parts 871,Unknown,TWD,Net 30,4.44,Electronics,Inactive
+SUP-00872,Precision Polymer Corp 872,Vietnam,VND,COD,4.45,Crude Oil / Polymers,Inactive
+SUP-00873,Bavarian Chemical Resins 873,Germany,EUR,2/10 Net 30,4.5,Freight,Inactive
+SUP-00874,Nippon Electronics 874,Germany,EUR,Net 30,2.54,Freight,Preferred
+SUP-00875,Nippon Logistics Parts 875,USA,USD,Net 60,2.37,Copper,Under Review
+SUP-00876,Pacific Chemical Resins 876,Canada,CAD,Net 30,3.38,Steel,Under Review
+SUP-00877,Global Microtech 877,Taiwan,TWD,Net 30,4.23,Steel,Active
+SUP-00878,Andean Metal Tech 878,Chile,USD,COD,3.93,Freight,Preferred
+SUP-00879,Nippon Logistics Parts 879,UK,GBP,COD,4.29,Crude Oil / Polymers,Under Review
+SUP-00880,Vanguard Polymer Corp 880,Chile,USD,Net 60,4.19,Packaging,Active
+SUP-00881,Precision Chemical Resins 881,Japan,JPY,LC At Sight,3.05,Freight,Under Review
+SUP-00882,Bavarian Electronics 882,South Korea,KRW,2/10 Net 30,4.5,Electronics,Preferred
+SUP-00883,Nippon Cable & Wire 883,USA,USD,COD,3.98,Electronics,Inactive
+SUP-00884,Apex Industrial 884,Unknown,CAD,COD,4.85,Copper,Inactive
+SUP-00885,Global Cable & Wire 885,Canada,CAD,2/10 Net 30,3.49,Rare Earths,Active
+SUP-00886,Apex Cable & Wire 886,India,INR,Net 30,4.14,Copper,Active
+SUP-00887,Atlas Logistics Parts 887,UK,GBP,Net 30,3.4,Copper,Active
+SUP-00888,Global Logistics Parts 888,South Korea,KRW,COD,4.13,Freight,Inactive
+SUP-00889,Sino Chemical Resins 889,Taiwan,TWD,Net 30,2.91,Rare Earths,Active
+SUP-00890,Sino Cable & Wire 890,USA,USD,Net 30,2.77,Packaging,Active
+SUP-00891,Global Microtech 891,China,CNY,Net 30,4.5,Freight,Inactive
+SUP-00892,Titan Microtech 892,Canada,CAD,LC At Sight,4.91,Crude Oil / Polymers,Preferred
+SUP-00893,Nippon Logistics Parts 893,South Korea,KRW,COD,4.02,Freight,Preferred
+SUP-00894,Bavarian Cable & Wire 894,Mexico,MXN,2/10 Net 30,3.5,Crude Oil / Polymers,Under Review
+SUP-00895,Horizon Polymer Corp 895,Germany,EUR,Net 30,2.64,Electronics,Active
+SUP-00896,Apex Electronics 896,USA,USD,LC At Sight,,Rare Earths,Under Review
+SUP-00897,Vanguard Industrial 897,Unknown,CAD,Net 30,2.92,Packaging,Active
+SUP-00898,Horizon Polymer Corp 898,UK,GBP,COD,3.53,Rare Earths,Under Review
+SUP-00899,Horizon Polymer Corp 899,UK,GBP,2/10 Net 30,3.86,Crude Oil / Polymers,Under Review
+sup_900,Vanguard Industrial 900,Mexico,MXN,2/10 Net 30,4.5,Crude Oil / Polymers,Inactive
+SUP-00901,Atlas Chemical Resins 901,Vietnam,VND,Net 60,2.84,Steel,Active
+SUP-00902,Andean Metal Tech 902,Germany,EUR,Net 30,2.56,Packaging,Inactive
+SUP-00903,Nippon Polymer Corp 903,Germany,EUR,Net 30,4.04,Copper,Active
+SUP-00904,Titan Logistics Parts 904,China,CNY,COD,4.1,Steel,Active
+SUP-00905,Titan Industrial 905,Vietnam,VND,Net 30,2.91,Rare Earths,Inactive
+SUP-00906,Bavarian Polymer Corp 906,UK,GBP,Net 30,2.56,Freight,Active
+SUP-00907,Bavarian Chemical Resins 907,Mexico,MXN,Net 30,2.91,Steel,Preferred
+SUP-00908,Pacific Metal Tech 908,Canada,CAD,2/10 Net 30,2.76,Rare Earths,Active
+SUP-00909,Horizon Electronics 909,Japan,JPY,Net 30,4.5,Packaging,Inactive
+SUP-00910,Sino Microtech 910,Unknown,CAD,2/10 Net 30,,Steel,Active
+SUP-00911,Vanguard Metal Tech 911,India,INR,Net 60,2.33,Crude Oil / Polymers,Active
+SUP-00912,Sino Industrial 912,Vietnam,VND,Net 30,2.86,Rare Earths,Inactive
+SUP-00913,Bavarian Logistics Parts 913,Germany,EUR,LC At Sight,4.42,Copper,Inactive
+SUP-00914,Atlas Cable & Wire 914,Taiwan,TWD,Net 30,3.95,Rare Earths,Preferred
+SUP-00915,Horizon Metal Tech 915,Vietnam,VND,Net 30,2.26,Crude Oil / Polymers,Active
+SUP-00916,Andean Microtech 916,Chile,USD,2/10 Net 30,3.55,Copper,Inactive
+SUP-00917,Titan Metal Tech 917,India,INR,LC At Sight,3.02,Steel,Active
+SUP-00918,Horizon Cable & Wire 918,Canada,CAD,Net 60,4.5,Rare Earths,Inactive
+SUP-00919,Precision Metal Tech 919,Vietnam,VND,Net 30,4.56,Copper,Preferred
+SUP-00920,Bavarian Chemical Resins 920,Taiwan,TWD,COD,3.27,Freight,Active
+SUP-00921,Precision Cable & Wire 921,UK,GBP,Net 30,3.15,Packaging,Active
+SUP-00922,Pacific Chemical Resins 922,Canada,CAD,Net 30,4.96,Rare Earths,Inactive
+SUP-00923,Vanguard Cable & Wire 923,Unknown,USD,LC At Sight,4.58,Steel,Preferred
+SUP-00924,Atlas Cable & Wire 924,Japan,JPY,Net 30,,Electronics,Under Review
+SUP-00925,Nippon Logistics Parts 925,Germany,EUR,Net 30,4.57,Electronics,Inactive
+SUP-00926,Vanguard Microtech 926,Germany,EUR,Net 30,2.11,Packaging,Inactive
+SUP-00927,Precision Industrial 927,Germany,EUR,Net 30,4.5,Copper,Active
+SUP-00928,Nippon Polymer Corp 928,South Korea,KRW,Net 30,3.09,Steel,Inactive
+SUP-00929,Horizon Polymer Corp 929,China,CNY,2/10 Net 30,3.23,Freight,Active
+SUP-00930,Apex Microtech 930,Chile,USD,Net 30,4.31,Steel,Inactive
+SUP-00931,Sino Metal Tech 931,UK,GBP,Net 30,2.25,Copper,Under Review
+SUP-00932,Titan Cable & Wire 932,Taiwan,TWD,LC At Sight,3.64,Electronics,Active
+SUP-00933,Global Cable & Wire 933,USA,USD,Net 30,2.97,Freight,Active
+SUP-00934,Vanguard Industrial 934,Canada,CAD,Net 30,2.81,Copper,Inactive
+SUP-00935,Vanguard Cable & Wire 935,Chile,USD,Net 60,4.07,Rare Earths,Inactive
+SUP-00936,Nippon Microtech 936,Unknown,GBP,Net 30,4.5,Packaging,Preferred
+SUP-00937,Precision Microtech 937,UK,GBP,Net 30,3.92,Copper,Active
+SUP-00938,Vanguard Cable & Wire 938,Mexico,MXN,Net 30,,Crude Oil / Polymers,Inactive
+SUP-00939,Precision Microtech 939,Vietnam,VND,Net 30,2.39,Steel,Under Review
+SUP-00940,Apex Metal Tech 940,Chile,USD,COD,2.45,Packaging,Active
+SUP-00941,Vanguard Logistics Parts 941,Mexico,MXN,Net 30,3.39,Electronics,Active
+SUP-00942,Andean Chemical Resins 942,India,INR,Net 60,2.3,Rare Earths,Inactive
+SUP-00943,Sino Cable & Wire 943,Mexico,MXN,Net 60,4.91,Rare Earths,Active
+SUP-00944,Horizon Electronics 944,China,CNY,COD,4.14,Copper,Inactive
+SUP-00945,Atlas Polymer Corp 945,South Korea,KRW,Net 30,4.5,Crude Oil / Polymers,Under Review
+SUP-00946,Andean Industrial 946,USA,USD,Net 30,2.42,Copper,Active
+SUP-00947,Atlas Chemical Resins 947,Canada,CAD,Net 30,3.44,Electronics,Inactive
+SUP-00948,Titan Chemical Resins 948,Germany,EUR,COD,2.65,Freight,Active
+SUP-00949,Sino Metal Tech 949,Unknown,MXN,COD,4.34,Crude Oil / Polymers,Inactive
+SUP-00950,Atlas Microtech 950,Chile,USD,2/10 Net 30,3.76,Packaging,Inactive
+SUP-00951,Atlas Electronics 951,India,INR,2/10 Net 30,4.83,Rare Earths,Inactive
+SUP-00952,Apex Logistics Parts 952,Vietnam,VND,Net 30,,Crude Oil / Polymers,Inactive
+SUP-00953,Apex Metal Tech 953,Chile,USD,LC At Sight,4.56,Freight,Inactive
+SUP-00954,Horizon Electronics 954,Vietnam,VND,COD,4.5,Packaging,Preferred
+SUP-00955,Precision Metal Tech 955,UK,GBP,Net 60,2.74,Electronics,Under Review
+SUP-00956,Global Metal Tech 956,China,CNY,LC At Sight,2.8,Freight,Under Review
+SUP-00957,Titan Polymer Corp 957,Canada,CAD,Net 30,3.43,Electronics,Inactive
+SUP-00958,Global Polymer Corp 958,Canada,CAD,LC At Sight,2.28,Copper,Inactive
+SUP-00959,Global Industrial 959,China,CNY,Net 30,3.86,Crude Oil / Polymers,Active
+SUP-00960,Apex Microtech 960,Taiwan,TWD,Net 30,2.8,Crude Oil / Polymers,Inactive
+SUP-00961,Nippon Electronics 961,UK,GBP,Net 30,4.87,Steel,Inactive
+SUP-00962,Apex Electronics 962,Unknown,EUR,2/10 Net 30,3.28,Rare Earths,Active
+SUP-00963,Precision Electronics 963,USA,USD,LC At Sight,4.5,Freight,Active
+SUP-00964,Sino Electronics 964,Chile,USD,Net 30,3.74,Rare Earths,Active
+SUP-00965,Global Industrial 965,Germany,EUR,Net 30,3.61,Packaging,Inactive
+SUP-00966,Apex Electronics 966,Japan,JPY,LC At Sight,,Crude Oil / Polymers,Active
+SUP-00967,Pacific Cable & Wire 967,Chile,USD,Net 30,4,Freight,Inactive
+SUP-00968,Apex Microtech 968,Canada,CAD,2/10 Net 30,3.99,Steel,Active
+SUP-00969,Vanguard Industrial 969,Taiwan,TWD,LC At Sight,2.9,Crude Oil / Polymers,Under Review
+SUP-00970,Vanguard Polymer Corp 970,Chile,USD,Net 30,2.86,Copper,Inactive
+SUP-00971,Nippon Metal Tech 971,Taiwan,TWD,LC At Sight,3.15,Crude Oil / Polymers,Under Review
+SUP-00972,Atlas Electronics 972,Vietnam,VND,Net 60,4.5,Copper,Active
+SUP-00973,Precision Polymer Corp 973,Mexico,MXN,Net 30,3.77,Copper,Under Review
+SUP-00974,Andean Polymer Corp 974,Mexico,MXN,Net 30,4.78,Freight,Inactive
+SUP-00975,Vanguard Industrial 975,Unknown,USD,Net 60,2.04,Electronics,Preferred
+SUP-00976,Apex Chemical Resins 976,Taiwan,TWD,COD,3.82,Copper,Preferred
+SUP-00977,Nippon Cable & Wire 977,Japan,JPY,Net 30,4.77,Electronics,Active
+SUP-00978,Precision Industrial 978,UK,GBP,Net 30,3.28,Electronics,Inactive
+SUP-00979,Sino Metal Tech 979,Germany,EUR,LC At Sight,4.33,Copper,Active
+SUP-00980,Horizon Cable & Wire 980,Vietnam,VND,Net 30,,Packaging,Active
+SUP-00981,Horizon Polymer Corp 981,Vietnam,VND,Net 30,4.5,Freight,Active
+SUP-00982,Vanguard Polymer Corp 982,Canada,CAD,Net 30,4.88,Rare Earths,Active
+SUP-00983,Horizon Electronics 983,Taiwan,TWD,2/10 Net 30,4.86,Rare Earths,Inactive
+SUP-00984,Precision Chemical Resins 984,China,CNY,Net 30,3.87,Steel,Active
+SUP-00985,Precision Microtech 985,Japan,JPY,2/10 Net 30,3.54,Rare Earths,Preferred
+SUP-00986,Nippon Chemical Resins 986,Mexico,MXN,LC At Sight,2.49,Crude Oil / Polymers,Active
+SUP-00987,Titan Microtech 987,South Korea,KRW,Net 30,4.37,Electronics,Inactive
+SUP-00988,Titan Metal Tech 988,Unknown,MXN,LC At Sight,2.66,Packaging,Inactive
+SUP-00989,Pacific Industrial 989,China,CNY,LC At Sight,2.82,Steel,Active
+SUP-00990,Sino Metal Tech 990,Germany,EUR,2/10 Net 30,4.5,Packaging,Under Review
+SUP-00991,Bavarian Polymer Corp 991,Taiwan,TWD,Net 30,2.05,Copper,Under Review
+SUP-00992,Bavarian Logistics Parts 992,Germany,EUR,2/10 Net 30,4.33,Rare Earths,Inactive
+SUP-00993,Atlas Logistics Parts 993,Germany,EUR,Net 30,3.16,Freight,Under Review
+SUP-00994,Vanguard Polymer Corp 994,Germany,EUR,2/10 Net 30,,Electronics,Preferred
+SUP-00995,Global Cable & Wire 995,Chile,USD,LC At Sight,2.02,Packaging,Inactive
+SUP-00996,Vanguard Metal Tech 996,Taiwan,TWD,Net 30,2.85,Electronics,Inactive
+SUP-00997,Precision Chemical Resins 997,India,INR,Net 30,4.43,Copper,Inactive
+SUP-00998,Global Industrial 998,Japan,JPY,LC At Sight,4.33,Crude Oil / Polymers,Active
+SUP-00999,Sino Logistics Parts 999,Chile,USD,Net 30,4.5,Steel,Preferred
+SUP-01000,Nippon Metal Tech 1000,Vietnam,VND,Net 30,2.06,Electronics,Under Review
